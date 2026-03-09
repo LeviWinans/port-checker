@@ -1,0 +1,12 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/ipl-photofacials/
+New Page: https://zenregen.influx-dev.com/cosmetic-dermatology/ipl-laser/
+Generated: 2026-03-09T18:11:20.630Z
+
+✅ SUCCESS: All content from the old page appears to be present on the new page!
+
+No missing text chunks, alt tags, or videos found.
