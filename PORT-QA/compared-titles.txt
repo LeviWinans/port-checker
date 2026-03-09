@@ -1,0 +1,514 @@
+HEADING COMPARISON REPORT
+Old → New (Missing Titles Only)
+===============================
+
+OLD PAGE:
+https://www.zenregen.com/pages/aesthetic-skin-services/chemical-peels/
+
+NEW PAGE:
+https://zenregen.influx-dev.com/skin-treatments/chemical-peels/
+
+MISSED HEADINGS FROM OLD PAGE (11):
+  ✗ [H1] Aesthetic Services
+  ✗ [H2] Your cart is empty
+  ✗ [H2] Your cart
+  ✗ [H2] Estimated total
+  ✗ [H2] Are You Ready To Schedule
+  ✗ [H2] Your Unique Journey?
+  ✗ [H2] FAQ
+  ✗ [H2] SHOP
+  ✗ [H2] CLINIC
+  ✗ [H2] RESOURCES
+  ✗ [H2] GET IN TOUCH
+
+FOUND ON NEW PAGE (3):
+  ✓ [H2] Chemical Peels
+  ✓ [H2] Preparing For Your Treatment
+  ✓ [H2] (on new page as <h3>) ABOUT
+
+----------------------------------------
+
+OLD PAGE:
+https://www.zenregen.com/pages/aesthetic-skin-services/customized-facials/
+
+NEW PAGE:
+https://zenregen.influx-dev.com/skin-treatments/customized-facials/
+
+MISSED HEADINGS FROM OLD PAGE (10):
+  ✗ [H1] Aesthetic Services
+  ✗ [H2] Your cart is empty
+  ✗ [H2] Your cart
+  ✗ [H2] Estimated total
+  ✗ [H2] Are You Ready To Schedule
+  ✗ [H2] Your Unique Journey?
+  ✗ [H2] SHOP
+  ✗ [H2] CLINIC
+  ✗ [H2] RESOURCES
+  ✗ [H2] GET IN TOUCH
+
+FOUND ON NEW PAGE (3):
+  ✓ [H2] Customized Facials
+  ✓ [H2] (on new page as <h3>) ABOUT
+  ✓ [H3] WHAT ARE CUSTOMIZED FACIALS?
+
+----------------------------------------
+
+OLD PAGE:
+https://www.zenregen.com/pages/aesthetic-skin-services/hydrafacial/
+
+NEW PAGE:
+https://zenregen.influx-dev.com/skin-treatments/hydrafacial/
+
+MISSED HEADINGS FROM OLD PAGE (11):
+  ✗ [H1] Aesthetic Services
+  ✗ [H2] Your cart is empty
+  ✗ [H2] Your cart
+  ✗ [H2] Estimated total
+  ✗ [H2] Are You Ready To Schedule
+  ✗ [H2] Your Unique Journey?
+  ✗ [H2] FAQ
+  ✗ [H2] SHOP
+  ✗ [H2] CLINIC
+  ✗ [H2] RESOURCES
+  ✗ [H2] GET IN TOUCH
+
+FOUND ON NEW PAGE (3):
+  ✓ [H2] (on new page as <h3>) Hydrafacial
+  ✓ [H2] Preparing For Your Treatment
+  ✓ [H2] (on new page as <h3>) ABOUT
+
+----------------------------------------
+
+OLD PAGE:
+https://www.zenregen.com/pages/aesthetic-skin-services/visia-skin-analysis/
+
+NEW PAGE:
+https://zenregen.influx-dev.com/skin-treatments/visia-skin-analysis/
+
+MISSED HEADINGS FROM OLD PAGE (12):
+  ✗ [H1] Aesthetic Services
+  ✗ [H2] Your cart is empty
+  ✗ [H2] Your cart
+  ✗ [H2] Estimated total
+  ✗ [H2] Are You Ready To Schedule
+  ✗ [H2] Your Unique Journey?
+  ✗ [H2] SHOP
+  ✗ [H2] CLINIC
+  ✗ [H2] RESOURCES
+  ✗ [H2] GET IN TOUCH
+  ✗ [H3] WHAT IS A VISIA SKIN ANALYSIS?
+  ✗ [H3] HOW DOES THE SKIN ANALYSIS WORK?
+
+FOUND ON NEW PAGE (2):
+  ✓ [H2] VISIA Skin Analysis
+  ✓ [H2] (on new page as <h3>) ABOUT
+
+----------------------------------------
+
+OLD PAGE:
+https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/biostim-with-sculptra-and-radiesse/
+
+NEW PAGE:
+https://zenregen.influx-dev.com/cosmetic-dermatology/sculptra-radiesse/
+
+MISSED HEADINGS FROM OLD PAGE (11):
+  ✗ [H1] Cosmetic Services
+  ✗ [H2] Your cart is empty
+  ✗ [H2] Your cart
+  ✗ [H2] Estimated total
+  ✗ [H2] Are You Ready To Schedule
+  ✗ [H2] Your Unique Journey?
+  ✗ [H2] FAQ
+  ✗ [H2] SHOP
+  ✗ [H2] CLINIC
+  ✗ [H2] RESOURCES
+  ✗ [H2] GET IN TOUCH
+
+FOUND ON NEW PAGE (3):
+  ✓ [H2] (on new page as <h3>) Biostim With Sculptra And Radiesse
+  ✓ [H2] Preparing For Your Treatment
+  ✓ [H2] (on new page as <h3>) ABOUT
+
+----------------------------------------
+
+OLD PAGE:
+https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/botox-dysport/
+
+NEW PAGE:
+https://zenregen.influx-dev.com/cosmetic-dermatology/botox-dysport/
+
+MISSED HEADINGS FROM OLD PAGE (12):
+  ✗ [H1] Cosmetic Services
+  ✗ [H2] Your cart is empty
+  ✗ [H2] Your cart
+  ✗ [H2] Estimated total
+  ✗ [H2] Are You Ready To Schedule
+  ✗ [H2] Your Unique Journey?
+  ✗ [H2] FAQ
+  ✗ [H2] SHOP
+  ✗ [H2] CLINIC
+  ✗ [H2] RESOURCES
+  ✗ [H2] GET IN TOUCH
+  ✗ [H3] Reducing troublesome facial lines and wrinkles
+
+FOUND ON NEW PAGE (3):
+  ✓ [H2] (on new page as <h3>) Neurotoxins
+  ✓ [H2] $199/year — The Better Aging Membership
+  ✓ [H2] (on new page as <h3>) ABOUT
+
+----------------------------------------
+
+OLD PAGE:
+https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/kybella/
+
+NEW PAGE:
+https://zenregen.influx-dev.com/cosmetic-dermatology/kybella/
+
+MISSED HEADINGS FROM OLD PAGE (11):
+  ✗ [H1] Cosmetic Services
+  ✗ [H2] Your cart is empty
+  ✗ [H2] Your cart
+  ✗ [H2] Estimated total
+  ✗ [H2] Are You Ready To Schedule
+  ✗ [H2] Your Unique Journey?
+  ✗ [H2] FAQ
+  ✗ [H2] SHOP
+  ✗ [H2] CLINIC
+  ✗ [H2] RESOURCES
+  ✗ [H2] GET IN TOUCH
+
+FOUND ON NEW PAGE (3):
+  ✓ [H2] (on new page as <h3>) Kybella
+  ✓ [H2] Preparing For Your Treatment
+  ✓ [H2] (on new page as <h3>) ABOUT
+
+----------------------------------------
+
+OLD PAGE:
+https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/microneedling/
+
+NEW PAGE:
+https://zenregen.influx-dev.com/cosmetic-dermatology/microneedling/
+
+MISSED HEADINGS FROM OLD PAGE (11):
+  ✗ [H1] Cosmetic Services
+  ✗ [H2] Your cart is empty
+  ✗ [H2] Your cart
+  ✗ [H2] Estimated total
+  ✗ [H2] Are You Ready To Schedule
+  ✗ [H2] Your Unique Journey?
+  ✗ [H2] FAQ
+  ✗ [H2] SHOP
+  ✗ [H2] CLINIC
+  ✗ [H2] RESOURCES
+  ✗ [H2] GET IN TOUCH
+
+FOUND ON NEW PAGE (3):
+  ✓ [H2] (on new page as <h3>) Microneedling
+  ✓ [H2] Preparing For Your Treatment
+  ✓ [H2] (on new page as <h3>) ABOUT
+
+----------------------------------------
+
+OLD PAGE:
+https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/sculptra/
+
+NEW PAGE:
+https://zenregen.influx-dev.com/cosmetic-dermatology/sculptra/
+
+MISSED HEADINGS FROM OLD PAGE (11):
+  ✗ [H1] Cosmetic Services
+  ✗ [H2] Your cart is empty
+  ✗ [H2] Your cart
+  ✗ [H2] Estimated total
+  ✗ [H2] Are You Ready To Schedule
+  ✗ [H2] Your Unique Journey?
+  ✗ [H2] FAQ
+  ✗ [H2] SHOP
+  ✗ [H2] CLINIC
+  ✗ [H2] RESOURCES
+  ✗ [H2] GET IN TOUCH
+
+FOUND ON NEW PAGE (2):
+  ✓ [H2] (on new page as <h3>) Sculptra
+  ✓ [H2] (on new page as <h3>) ABOUT
+
+----------------------------------------
+
+OLD PAGE:
+https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/dermal-fillers/
+
+NEW PAGE:
+https://zenregen.influx-dev.com/cosmetic-dermatology/dermal-fillers/
+
+MISSED HEADINGS FROM OLD PAGE (11):
+  ✗ [H1] Cosmetic Services
+  ✗ [H2] Your cart is empty
+  ✗ [H2] Your cart
+  ✗ [H2] Estimated total
+  ✗ [H2] Are You Ready To Schedule
+  ✗ [H2] Your Unique Journey?
+  ✗ [H2] FAQ
+  ✗ [H2] SHOP
+  ✗ [H2] CLINIC
+  ✗ [H2] RESOURCES
+  ✗ [H2] GET IN TOUCH
+
+FOUND ON NEW PAGE (3):
+  ✓ [H2] (on new page as <h3>) Dermal Fillers
+  ✓ [H2] Preparing For Your Treatment
+  ✓ [H2] (on new page as <h3>) ABOUT
+
+----------------------------------------
+
+OLD PAGE:
+https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/fotona-scar-streacth-mark-revesion/
+
+NEW PAGE:
+https://zenregen.influx-dev.com/cosmetic-dermatology/fotona-scar-streacth-mark-revesion/
+
+MISSED HEADINGS FROM OLD PAGE (11):
+  ✗ [H1] Cosmetic Services
+  ✗ [H2] Your cart is empty
+  ✗ [H2] Your cart
+  ✗ [H2] Estimated total
+  ✗ [H2] Fotona Scar & Streacth Mark Revesion
+  ✗ [H2] Are You Ready To Schedule
+  ✗ [H2] Your Unique Journey?
+  ✗ [H2] SHOP
+  ✗ [H2] CLINIC
+  ✗ [H2] RESOURCES
+  ✗ [H2] GET IN TOUCH
+
+FOUND ON NEW PAGE (2):
+  ✓ [H2] Preparing For Your Treatment
+  ✓ [H2] (on new page as <h3>) ABOUT
+
+----------------------------------------
+
+OLD PAGE:
+https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/fotona-tightsculpting/
+
+NEW PAGE:
+https://zenregen.influx-dev.com/cosmetic-dermatology/fotona-tightsculpting/
+
+MISSED HEADINGS FROM OLD PAGE (10):
+  ✗ [H1] Cosmetic Services
+  ✗ [H2] Your cart is empty
+  ✗ [H2] Your cart
+  ✗ [H2] Estimated total
+  ✗ [H2] Are You Ready To Schedule
+  ✗ [H2] Your Unique Journey?
+  ✗ [H2] SHOP
+  ✗ [H2] CLINIC
+  ✗ [H2] RESOURCES
+  ✗ [H2] GET IN TOUCH
+
+FOUND ON NEW PAGE (2):
+  ✓ [H2] Fotona TightSculpting®
+  ✓ [H2] (on new page as <h3>) ABOUT
+
+----------------------------------------
+
+OLD PAGE:
+https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/ipl-photofacials/
+
+NEW PAGE:
+https://zenregen.influx-dev.com/cosmetic-dermatology/ipl-laser/
+
+MISSED HEADINGS FROM OLD PAGE (11):
+  ✗ [H1] Cosmetic Services
+  ✗ [H2] Your cart is empty
+  ✗ [H2] Your cart
+  ✗ [H2] Estimated total
+  ✗ [H2] Are You Ready To Schedule
+  ✗ [H2] Your Unique Journey?
+  ✗ [H2] FAQ
+  ✗ [H2] SHOP
+  ✗ [H2] CLINIC
+  ✗ [H2] RESOURCES
+  ✗ [H2] GET IN TOUCH
+
+FOUND ON NEW PAGE (3):
+  ✓ [H2] IPL Photofacials In Sacramento
+  ✓ [H2] Preparing For Your Treatment
+  ✓ [H2] (on new page as <h3>) ABOUT
+
+----------------------------------------
+
+OLD PAGE:
+https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/laser-skin-resurfacing/
+
+NEW PAGE:
+https://zenregen.influx-dev.com/cosmetic-dermatology/laser-skin-resurfacing/
+
+MISSED HEADINGS FROM OLD PAGE (11):
+  ✗ [H1] Cosmetic Services
+  ✗ [H2] Your cart is empty
+  ✗ [H2] Your cart
+  ✗ [H2] Estimated total
+  ✗ [H2] Are You Ready To Schedule
+  ✗ [H2] Your Unique Journey?
+  ✗ [H2] FAQ
+  ✗ [H2] SHOP
+  ✗ [H2] CLINIC
+  ✗ [H2] RESOURCES
+  ✗ [H2] GET IN TOUCH
+
+FOUND ON NEW PAGE (3):
+  ✓ [H2] Laser Skin Resurfacing In Sacramento
+  ✓ [H2] Preparing For Your Treatment
+  ✓ [H2] (on new page as <h3>) ABOUT
+
+----------------------------------------
+
+OLD PAGE:
+https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/laser-skin-tightening/
+
+NEW PAGE:
+https://zenregen.influx-dev.com/cosmetic-dermatology/laser-skin-tightening/
+
+MISSED HEADINGS FROM OLD PAGE (11):
+  ✗ [H1] Cosmetic Services
+  ✗ [H2] Your cart is empty
+  ✗ [H2] Your cart
+  ✗ [H2] Estimated total
+  ✗ [H2] Are You Ready To Schedule
+  ✗ [H2] Your Unique Journey?
+  ✗ [H2] FAQ
+  ✗ [H2] SHOP
+  ✗ [H2] CLINIC
+  ✗ [H2] RESOURCES
+  ✗ [H2] GET IN TOUCH
+
+FOUND ON NEW PAGE (2):
+  ✓ [H2] (on new page as <h3>) Laser Skin Tightening
+  ✓ [H2] (on new page as <h3>) ABOUT
+
+----------------------------------------
+
+OLD PAGE:
+https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/hair-health-and-hair-loss/
+
+NEW PAGE:
+https://zenregen.influx-dev.com/hair-restoration/hair-health-hair-loss/
+
+MISSED HEADINGS FROM OLD PAGE (11):
+  ✗ [H1] Cosmetic Services
+  ✗ [H2] Your cart is empty
+  ✗ [H2] Your cart
+  ✗ [H2] Estimated total
+  ✗ [H2] Are You Ready To Schedule
+  ✗ [H2] Your Unique Journey?
+  ✗ [H2] FAQ
+  ✗ [H2] SHOP
+  ✗ [H2] CLINIC
+  ✗ [H2] RESOURCES
+  ✗ [H2] GET IN TOUCH
+
+FOUND ON NEW PAGE (3):
+  ✓ [H2] (on new page as <h3>) Hair Health and Hair Loss
+  ✓ [H2] (on new page as <h3>) ABOUT
+  ✓ [H3] Philosophy of the Integrative Hair Health Clinic
+
+----------------------------------------
+
+OLD PAGE:
+https://www.zenregen.com/pages/longevity-medicine-services/sauna-therapy/
+
+NEW PAGE:
+https://zenregen.influx-dev.com/longevity-medicine/sauna-therapy/
+
+MISSED HEADINGS FROM OLD PAGE (10):
+  ✗ [H1] Longevity Medicine Services
+  ✗ [H2] Your cart is empty
+  ✗ [H2] Your cart
+  ✗ [H2] Estimated total
+  ✗ [H2] Are You Ready To Schedule
+  ✗ [H2] Your Unique Journey?
+  ✗ [H2] SHOP
+  ✗ [H2] CLINIC
+  ✗ [H2] RESOURCES
+  ✗ [H2] GET IN TOUCH
+
+FOUND ON NEW PAGE (2):
+  ✓ [H2] Sauna Therapy
+  ✓ [H2] (on new page as <h3>) ABOUT
+
+----------------------------------------
+
+OLD PAGE:
+https://www.zenregen.com/pages/longevity-medicine-services/supplements-for-longevity/
+
+NEW PAGE:
+https://zenregen.influx-dev.com/longevity-medicine/supplements-for-longevity/
+
+MISSED HEADINGS FROM OLD PAGE (10):
+  ✗ [H1] Longevity Medicine Services
+  ✗ [H2] Your cart is empty
+  ✗ [H2] Your cart
+  ✗ [H2] Estimated total
+  ✗ [H2] Are You Ready To Schedule
+  ✗ [H2] Your Unique Journey?
+  ✗ [H2] SHOP
+  ✗ [H2] CLINIC
+  ✗ [H2] RESOURCES
+  ✗ [H2] GET IN TOUCH
+
+FOUND ON NEW PAGE (2):
+  ✓ [H2] Supplements for Longevity
+  ✓ [H2] (on new page as <h3>) ABOUT
+
+----------------------------------------
+
+OLD PAGE:
+https://www.zenregen.com/pages/aesthetic-skin-services/infrared-sauna/
+
+NEW PAGE:
+https://zenregen.influx-dev.com/longevity-medicine/infrared-sauna/
+
+MISSED HEADINGS FROM OLD PAGE (11):
+  ✗ [H1] Aesthetic Services
+  ✗ [H2] Your cart is empty
+  ✗ [H2] Your cart
+  ✗ [H2] Estimated total
+  ✗ [H2] Are You Ready To Schedule
+  ✗ [H2] Your Unique Journey?
+  ✗ [H2] FAQ
+  ✗ [H2] SHOP
+  ✗ [H2] CLINIC
+  ✗ [H2] RESOURCES
+  ✗ [H2] GET IN TOUCH
+
+FOUND ON NEW PAGE (2):
+  ✓ [H2] (on new page as <h3>) Infrared Sauna
+  ✓ [H2] (on new page as <h3>) ABOUT
+
+----------------------------------------
+
+OLD PAGE:
+https://www.zenregen.com/pages/aesthetic-skin-services/cool-sculpting/
+
+NEW PAGE:
+https://zenregen.influx-dev.com/body-sculpting/coolsculpting/
+
+MISSED HEADINGS FROM OLD PAGE (11):
+  ✗ [H1] Aesthetic Services
+  ✗ [H2] Your cart is empty
+  ✗ [H2] Your cart
+  ✗ [H2] Estimated total
+  ✗ [H2] Are You Ready To Schedule
+  ✗ [H2] Your Unique Journey?
+  ✗ [H2] FAQ
+  ✗ [H2] SHOP
+  ✗ [H2] CLINIC
+  ✗ [H2] RESOURCES
+  ✗ [H2] GET IN TOUCH
+
+FOUND ON NEW PAGE (3):
+  ✓ [H2] (on new page as <h3>) CoolSculpting
+  ✓ [H2] Preparing For Your Treatment
+  ✓ [H2] (on new page as <h3>) ABOUT
+
+----------------------------------------
+

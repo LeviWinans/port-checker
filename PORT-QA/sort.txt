@@ -1,0 +1,47 @@
+/pages/aesthetic-skin-services/chemical-peels/	PORT	/skin-treatments/chemical-peels/
+/pages/aesthetic-skin-services/customized-facials/	PORT	/skin-treatments/customized-facials/
+/pages/aesthetic-skin-services/hydrafacial/	PORT	/skin-treatments/hydrafacial/
+/pages/aesthetic-skin-services/visia-skin-analysis/	PORT	/skin-treatments/visia-skin-analysis/
+		
+/pages/cosmetic-dermatology-skin-services/	Index Page - Cosmetic Dermatology Skin Services 	/cosmetic-dermatology/
+/pages/cosmetic-dermatology-skin-services/biostim-with-sculptra-and-radiesse/	PORT	/cosmetic-dermatology/sculptra-radiesse/
+/pages/cosmetic-dermatology-skin-services/vbeam/	Vbeam 	/cosmetic-dermatology/vbeam/
+/pages/cosmetic-dermatology-skin-services/botox-dysport/	PORT	/cosmetic-dermatology/botox-dysport/
+/pages/cosmetic-dermatology-skin-services/kybella/	PORT	/cosmetic-dermatology/kybella/
+/pages/cosmetic-dermatology-skin-services/microneedling/	PORT	/cosmetic-dermatology/microneedling/
+/pages/cosmetic-dermatology-skin-services/natural-growth-factor/	Natural Growth Factor 	/cosmetic-dermatology/natural-growth-factor/
+/pages/cosmetic-dermatology-skin-services/sculptra/	PORT	/cosmetic-dermatology/sculptra/
+/pages/cosmetic-dermatology-skin-services/co2-laser-resurfacing/	Co2 Laser Resurfacing 	/cosmetic-dermatology/co2-laser-resurfacing/
+/pages/cosmetic-dermatology-skin-services/dermal-fillers/	PORT	/cosmetic-dermatology/dermal-fillers/
+/pages/cosmetic-dermatology-skin-services/fotona-4d/	Fotona 4d 	/cosmetic-dermatology/fotona-4d/
+/pages/cosmetic-dermatology-skin-services/fotona-eyelase/	Fotona Eyelase 	/cosmetic-dermatology/fotona-eyelase/
+/pages/cosmetic-dermatology-skin-services/fotona-laser/	Fotona Laser 	/cosmetic-dermatology/fotona-laser/
+/pages/cosmetic-dermatology-skin-services/fotona-liplase/	Fotona Liplase 	/cosmetic-dermatology/fotona-liplase/
+/pages/cosmetic-dermatology-skin-services/fotona-nightlase/	Fotona Nightlase 	/cosmetic-dermatology/fotona-nightlase/
+/pages/cosmetic-dermatology-skin-services/fotona-scar-streacth-mark-revesion/	PORT	/cosmetic-dermatology/fotona-scar-streacth-mark-revesion/
+/pages/cosmetic-dermatology-skin-services/fotona-tightsculpting/	PORT	/cosmetic-dermatology/fotona-tightsculpting/
+/pages/cosmetic-dermatology-skin-services/ipl-photofacials/	PORT	/cosmetic-dermatology/ipl-laser/
+/pages/cosmetic-dermatology-skin-services/laser-skin-resurfacing/	PORT	/cosmetic-dermatology/laser-skin-resurfacing/
+/pages/cosmetic-dermatology-skin-services/laser-skin-tightening/	PORT	/cosmetic-dermatology/laser-skin-tightening/
+New Page	Fotona Starwalker	/cosmetic-dermatology/fotona-star-walker/
+		
+/pages/hair-restoration-services/	Index Page - Hair Restoration Services 	/hair-restoration/
+/pages/cosmetic-dermatology-skin-services/hair-health-and-hair-loss/	PORT	/hair-restoration/hair-health-hair-loss/
+/pages/hair-restoration-services/hair-restart/	Hair Restart 	/hair-restoration/hair-restart/
+/pages/hair-restoration-services/prescription-therapies/	Prescription Therapies 	/hair-restoration/prescription-therapies/
+/pages/hair-restoration-services/prp/	PRP	/hair-restoration/prp/
+/pages/hair-restoration-services/the-power-roots-membership/	301	/hair-restoration/
+		
+		
+/pages/longevity-medicine-services/	Index Page - Longevity Medicine Services 	/longevity-medicine/
+/pages/integrative-medicine-services/im-nutrient-therapy/	Im Nutrient Therapy 	/longevity-medicine/im-nutrient-therapy/
+/pages/longevity-medicine-services/prescription-therapies/	Prescription Therapies 	/longevity-medicine/prescription-therapies/
+/pages/longevity-medicine-services/red-light-therapy/	Red Light Therapy 	/longevity-medicine/red-light-therapy/
+/pages/longevity-medicine-services/sauna-therapy/	PORT	/longevity-medicine/sauna-therapy/
+/pages/longevity-medicine-services/supplements-for-longevity/	PORT	/longevity-medicine/supplements-for-longevity/
+New Page	Longevity Lab	/longevity-medicine/longevity-lab/
+/pages/aesthetic-skin-services/infrared-sauna/	PORT	/longevity-medicine/infrared-sauna/
+		
+New Page	Index Page - Body Sculpting 	/body-sculpting/
+New Page	Emsculpt	/body-sculpting/emsculpt/
+/pages/aesthetic-skin-services/cool-sculpting/	PORT	/body-sculpting/coolsculpting/

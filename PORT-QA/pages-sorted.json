@@ -1,0 +1,102 @@
+[
+  {
+    "oldPage": "https://www.zenregen.com/pages/aesthetic-skin-services/chemical-peels/",
+    "contentSource": "PORT",
+    "newPage": "https://zenregen.influx-dev.com/skin-treatments/chemical-peels/"
+  },
+  {
+    "oldPage": "https://www.zenregen.com/pages/aesthetic-skin-services/customized-facials/",
+    "contentSource": "PORT",
+    "newPage": "https://zenregen.influx-dev.com/skin-treatments/customized-facials/"
+  },
+  {
+    "oldPage": "https://www.zenregen.com/pages/aesthetic-skin-services/hydrafacial/",
+    "contentSource": "PORT",
+    "newPage": "https://zenregen.influx-dev.com/skin-treatments/hydrafacial/"
+  },
+  {
+    "oldPage": "https://www.zenregen.com/pages/aesthetic-skin-services/visia-skin-analysis/",
+    "contentSource": "PORT",
+    "newPage": "https://zenregen.influx-dev.com/skin-treatments/visia-skin-analysis/"
+  },
+  {
+    "oldPage": "https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/biostim-with-sculptra-and-radiesse/",
+    "contentSource": "PORT",
+    "newPage": "https://zenregen.influx-dev.com/cosmetic-dermatology/sculptra-radiesse/"
+  },
+  {
+    "oldPage": "https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/botox-dysport/",
+    "contentSource": "PORT",
+    "newPage": "https://zenregen.influx-dev.com/cosmetic-dermatology/botox-dysport/"
+  },
+  {
+    "oldPage": "https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/kybella/",
+    "contentSource": "PORT",
+    "newPage": "https://zenregen.influx-dev.com/cosmetic-dermatology/kybella/"
+  },
+  {
+    "oldPage": "https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/microneedling/",
+    "contentSource": "PORT",
+    "newPage": "https://zenregen.influx-dev.com/cosmetic-dermatology/microneedling/"
+  },
+  {
+    "oldPage": "https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/sculptra/",
+    "contentSource": "PORT",
+    "newPage": "https://zenregen.influx-dev.com/cosmetic-dermatology/sculptra/"
+  },
+  {
+    "oldPage": "https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/dermal-fillers/",
+    "contentSource": "PORT",
+    "newPage": "https://zenregen.influx-dev.com/cosmetic-dermatology/dermal-fillers/"
+  },
+  {
+    "oldPage": "https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/fotona-scar-streacth-mark-revesion/",
+    "contentSource": "PORT",
+    "newPage": "https://zenregen.influx-dev.com/cosmetic-dermatology/fotona-scar-streacth-mark-revesion/"
+  },
+  {
+    "oldPage": "https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/fotona-tightsculpting/",
+    "contentSource": "PORT",
+    "newPage": "https://zenregen.influx-dev.com/cosmetic-dermatology/fotona-tightsculpting/"
+  },
+  {
+    "oldPage": "https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/ipl-photofacials/",
+    "contentSource": "PORT",
+    "newPage": "https://zenregen.influx-dev.com/cosmetic-dermatology/ipl-laser/"
+  },
+  {
+    "oldPage": "https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/laser-skin-resurfacing/",
+    "contentSource": "PORT",
+    "newPage": "https://zenregen.influx-dev.com/cosmetic-dermatology/laser-skin-resurfacing/"
+  },
+  {
+    "oldPage": "https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/laser-skin-tightening/",
+    "contentSource": "PORT",
+    "newPage": "https://zenregen.influx-dev.com/cosmetic-dermatology/laser-skin-tightening/"
+  },
+  {
+    "oldPage": "https://www.zenregen.com/pages/cosmetic-dermatology-skin-services/hair-health-and-hair-loss/",
+    "contentSource": "PORT",
+    "newPage": "https://zenregen.influx-dev.com/hair-restoration/hair-health-hair-loss/"
+  },
+  {
+    "oldPage": "https://www.zenregen.com/pages/longevity-medicine-services/sauna-therapy/",
+    "contentSource": "PORT",
+    "newPage": "https://zenregen.influx-dev.com/longevity-medicine/sauna-therapy/"
+  },
+  {
+    "oldPage": "https://www.zenregen.com/pages/longevity-medicine-services/supplements-for-longevity/",
+    "contentSource": "PORT",
+    "newPage": "https://zenregen.influx-dev.com/longevity-medicine/supplements-for-longevity/"
+  },
+  {
+    "oldPage": "https://www.zenregen.com/pages/aesthetic-skin-services/infrared-sauna/",
+    "contentSource": "PORT",
+    "newPage": "https://zenregen.influx-dev.com/longevity-medicine/infrared-sauna/"
+  },
+  {
+    "oldPage": "https://www.zenregen.com/pages/aesthetic-skin-services/cool-sculpting/",
+    "contentSource": "PORT",
+    "newPage": "https://zenregen.influx-dev.com/body-sculpting/coolsculpting/"
+  }
+]
