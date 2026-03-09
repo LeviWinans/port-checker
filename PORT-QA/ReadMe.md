@@ -1,7 +1,7 @@
-## PORT QA
+# PORT QA
     sort.txt & run-comparison.js
 
-# Steps
+## Steps
     Step 1: Update Outline
         sort.txt Copy and paste 3 columns 
             (Existing Page | Google Doc | URL) 
@@ -46,7 +46,7 @@
             Creates compared-titles.txt and displays comparison results
 
 
-### CHECK RESULTS
+## CHECK RESULTS
     /comparison_results/...
         Compare results
             Check results & make necessary updates
@@ -56,6 +56,6 @@
 
 
 ## npm
-npm init -y
-npm i cheerio axios
-nvm install --lts
+    npm init -y
+    npm i cheerio axios
+    nvm install --lts
