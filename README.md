@@ -7,10 +7,10 @@
 
 ## PORT-QA:
     Goal: Ensure all copy from PORT page is on Dev page
-    Run: run-comparison.js
+    Run: run.js
         Update domains on scrape-content.js
         Add 3 columns to sort.txt
-        node run-comparison.js
+        node run.js
     Run: node compare-titles.js 
 
     If you need to change the PORT Page scrape element/class targets, go to: scrape-content.js
