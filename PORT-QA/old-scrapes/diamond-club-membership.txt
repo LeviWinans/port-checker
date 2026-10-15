@@ -1,0 +1,22 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new  page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/diamond-club-membership/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/diamond-club-membership/
+Generated: 2026-09-30T04:18:29.795Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (3 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/diamond-club-membership/ Scraped: 2026-09-30T04:18:09.830Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Di...
+2. Diamond Upgrade Menu Book CALL 713-496-2427 TO SIGN UP TODAY! Want more treatments? Receive a 2nd Diamond Member treatment for the cost of your membership
+3. See Diamond Member contract for full details of program: Diamond Membership Contract 10.25.2023 [IMAGE: no alt text] Have more Questions? Contact Us
+
+MISSING ALT TAGS (1):
+----------------------------------------
+1. Diamond Club Membership for Houston Skincare
+

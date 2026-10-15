@@ -1,0 +1,25 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/body-contouring/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/body-contouring/
+Generated: 2026-09-29T21:14:12.501Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (6 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/body-contouring/ Scraped: 2026-09-29T21:13:47.150Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): [...
+2. Procedure options: EmSculpt, EmSculptNEO [IMAGE: no alt text] Procedure Overview Addresses Eliminate fat cells through apoptosis Build new muscles Strengthen existing muscles Burn fat Tighten and tone...
+3. View All Before & Afters Related Treatments [IMAGE: no alt text] EmTone [IMAGE: no alt text] What to Expect Before, During, and After Body Contouring in Houston 1
+4. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+5. "*" indicates required fields Email This field is for validation purposes and should be left unchanged
+6. Enter Email* Δ Frequently Asked Questions About EmSculpt NEO in Houston What is EmSculpt NEO Body Contouring? Emsculpt NEO is a revolutionary body contouring device that provides muscle stimulation in...
+
+MISSING ALT TAGS (1):
+----------------------------------------
+1. Plastic surgery patient model at Heights plastic surgery in Houston
+

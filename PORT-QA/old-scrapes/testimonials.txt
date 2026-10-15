@@ -1,0 +1,19 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/testimonials/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/testimonials/
+Generated: 2026-09-30T23:43:53.696Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (4 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/testimonials/ Scraped: 2026-09-30T23:43:53.198Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Heights Plast...
+2. Bullock Patient Testimonials Alibell C
+3. Downey Patient Testimonials Jakaia S
+4. [IMAGE: no alt text] Ready to Book? Contact Us
+

@@ -1,0 +1,73 @@
+HEADING COMPARISON REPORT
+Old → New (All Headings)
+===============================
+
+OLD PAGE:
+https://villanomd.com/non-surgical/
+
+All Headings in Order:
+  ✓ [H2] NON-SURGICAL
+PROCEDURES
+  ✓ [H1] Non-Surgical Procedures
+  ✗ [H2] Schedule your personal consultation to find out more about the procedures we offer.
+  ✗ [H3] Contact Us
+  ✗ [H2] Contact Us
+  ✗ [H1] Non-Surgical Medical Aesthetics Procedures
+  ✗ [H3] Non-Surgical Face Chart
+  ✗ [H3] Upper Face
+  ✗ [H3] Upper Face
+  ✗ [H3] Mid Face
+  ✗ [H3] Mid Face
+  ✗ [H3] Lower Face
+  ✗ [H3] Lower Face
+  ✗ [H3] Full Face
+  ✗ [H3] Full Face
+  ✗ [H3] Non-Surgical Face Chart
+  ✗ [H1] Daily Maintenance?
+We’ve Got You Covered.
+  ✓ [H1] Aesthetic Services
+  ✗ [H3] SUBSCRIBENOW
+
+NEW PAGE:
+https://uabend.influx-dev.com/non-surgical/
+
+All Headings in Order:
+  [H1] Non-Surgical Procedures
+  [H3] Threadlift 2
+  [H3] Nova Threads Threadlift
+  [H3] Silhouette Instalift Threadlift2
+  [H3] DERMAPLANE
+  [H3] Get Your Glow On
+  [H3] DAXXIFY / DYSPORT / BOTOX
+  [H3] Easy, Quick, Effective
+  [H3] FOTOFACIAL RF
+  [H3] FotoFacial RF Skin Rejuvenation Treatment
+  [H3] HydraFacial
+  [H3] Cleanse, Extract, Hydrate
+  [H3] KYBELLA
+  [H3] Say Good Bye and Good Riddance to that Double Chin
+  [H3] MICROCANNULA APPLICATION
+  [H3] Bruiseless facial filler
+  [H3] Microneedling PRP & Microneedling RF
+  [H3] Collagen - the Skin's Superhero
+  [H3] Medical Spa Chemical & Photo Light PEELS
+  [H3] VI Peels and Celluma
+  [H3] RESTYLANE
+  [H3] The Safe and Natural Beauty Enhancer
+  [H3] RHA Redensity Team
+  [H3] Dynamic Appeal
+  [H3] SCULPTRA
+  [H3] Welcome to the New Age of Anti-Age
+  [H3] THREADLIFT
+  [H3] Anti-Aging Treatment
+  [H3] Versa
+  [H3] State-of-the-Art Dermal Filler
+  [H3] Daily Maintenance?
+  [H2] We’ve Got You Covered
+  [H3] Aesthetic Services
+  [H2] Schedule Your Consultation
+  [H2] Error with Form Submission
+  [H2] Thank you for your submission!
+
+----------------------------------------
+

@@ -1,0 +1,18 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/newsletter-signup/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/resources/newsletter-signup/
+Generated: 2026-09-30T04:18:29.792Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (3 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/newsletter-signup/ Scraped: 2026-09-30T04:18:05.182Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Keep in ...
+2. Address 2813 W T C Jester Blvd Houston, TX 77018 Phone 346.321.4429 "*" indicates required fields Phone This field is for validation purposes and should be left unchanged
+3. Name* Full Name Phone Email* Submit Δ
+

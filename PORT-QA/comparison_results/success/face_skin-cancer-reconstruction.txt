@@ -1,0 +1,19 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/surgical/skin-cancer-reconstruction/
+New Page: https://uabend.influx-dev.com/face/skin-cancer-reconstruction/
+Generated: 2026-10-13T21:10:51.510Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (4 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/surgical/skin-cancer-reconstruction/ Scraped: 2026-10-13T21:10:48.239Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Facial Pl...
+2. VILLANO For skin cancer reconstruction in Bend, Oregon, contact the office of Board Certified Facial Plastic Surgeon Dr
+3. Villano at VillanoMD
+4. SEND US A MESSAGE CALL US 541-312-3223
+

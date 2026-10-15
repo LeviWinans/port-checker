@@ -1,0 +1,30 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/preserve-breast-augmentation/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/preserve-breast-augmentation/
+Generated: 2026-09-29T00:52:00.437Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (7 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/preserve-breast-augmentation/ Scraped: 2026-09-29T00:51:59.374Z ------------------------------------------ MAIN CONTENT (Alt tags and videos a...
+2. Augmentation Mammoplasty also known as: breast augmentation \ og-men-TAY-shun MA-moh-pla-stee \ Plastic surgery procedure that adds volume and symmetry to the breasts via breast implant or fat graftin...
+3. Contact us today to book your appointment Schedule a Consultation If fear of general anesthesia has delayed breast augmentation, Preservé may offer another path
+4. Get exclusive product discounts & treatment specials sent to your inbox
+5. "*" indicates required fields Instagram This field is for validation purposes and should be left unchanged
+6. Enter Email* Δ Frequently Asked Questions About Preservé Breast Augmentation in Houston Can Preservé breast augmentation really be performed without general anesthesia? Yes
+7. Regular follow-up and imaging remain essential.
+
+MISSING ALT TAGS (5):
+----------------------------------------
+1. houston breast implant doctor showing implants to patient
+2. breast implant exchange Houston close up view of breast implants
+3. Houston preserve breast augmentation model
+4. breast reduction model in houston
+5. Houston plastic surgeon
+

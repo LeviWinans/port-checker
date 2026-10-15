@@ -1,0 +1,20 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/surgical/ear-reshaping/
+New Page: https://uabend.influx-dev.com/face/ear-reshaping/
+Generated: 2026-10-13T21:10:51.512Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (5 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/surgical/ear-reshaping/ Scraped: 2026-10-13T21:10:49.467Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Otoplasty Ear Reshapin...
+2. Click here to view BEFORE/AFTER photos 6 CONTACT DR
+3. VILLANO For ear surgery in Bend, Oregon, contact the office of Dual Board Certified Facial Plastic Surgeon Dr
+4. Villano at VillanoMD
+5. SEND US A MESSAGE CALL US 541-312-3223
+

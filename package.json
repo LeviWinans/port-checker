@@ -5,6 +5,26 @@
     "jsdom": "^26.1.0",
     "lt": "^0.3.3",
     "lts": "^2.0.0",
+    "playwright": "^1.61.1",
     "puppeteer": "^24.37.3"
-  }
+  },
+  "name": "scrapers",
+  "version": "1.0.0",
+  "description": "PORT-QA was created to check for missing copy going from the PORT to dev page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeviWinans/port-checker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LeviWinans/port-checker/issues"
+  },
+  "homepage": "https://github.com/LeviWinans/port-checker#readme"
 }

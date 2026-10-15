@@ -1,6 +1,5 @@
 const fs = require("fs");
-const axios = require("axios");
-const cheerio = require("cheerio");
+const puppeteer = require("puppeteer");
 const path = require("path");
 
 const pagesData = JSON.parse(
@@ -21,24 +20,21 @@ function normalizeHeading(str) {
     .toLowerCase();
 }
 
-async function getHeadings(url) {
+async function getHeadings(page, url) {
   try {
-    const res = await axios.get(url, {
-      timeout: 15000,
-      headers: { "User-Agent": "Mozilla/5.0" },
+    await page.goto(url, {
+      waitUntil: "networkidle2",
+      timeout: 30000,
     });
 
-    const $ = cheerio.load(res.data);
+    const headings = await page.$$eval("h1, h2, h3", (elements) => {
+      return elements.map((el) => {
+        const text = el.textContent.trim();
+        const tag = el.tagName.toLowerCase();
+        return text ? { text, tag } : null;
+      }).filter(h => h !== null);
+    });
 
-    const headings = [];
-    for (const tag of ["h1", "h2", "h3"]) {
-      $(tag).each((i, el) => {
-        const text = $(el).text().trim();
-        if (text) {
-          headings.push({ text, tag });
-        }
-      });
-    }
     return headings;
   } catch (err) {
     return [`[ERROR FETCHING PAGE: ${err.message}]`];
@@ -62,7 +58,7 @@ function compareHeadings(firstHeadings, portHeadings) {
   const portNormMap = new Map(port.map((h) => [h.norm, h]));
 
   return {
-    first: first.map((h) => {
+    oldHeadings: first.map((h) => {
       const matchingPort = portNormMap.get(h.norm);
       return {
         text: h.text,
@@ -71,6 +67,7 @@ function compareHeadings(firstHeadings, portHeadings) {
         matchTag: matchingPort?.tag,
       };
     }),
+    newHeadings: port,
   };
 }
 
@@ -78,33 +75,19 @@ function formatReport(oldPage, newPage, result) {
   let out = "";
 
   out += `OLD PAGE:\n${oldPage}\n\n`;
-  out += `NEW PAGE:\n${newPage}\n\n`;
+  out += `All Headings in Order:\n`;
+  result.oldHeadings.forEach((h) => {
+    const tag = h.tag.toUpperCase();
+    const symbol = h.found ? "✓" : "✗";
+    out += `  ${symbol} [${tag}] ${h.text}\n`;
+  });
 
-  const missed = result.first.filter((h) => !h.found);
-  const found = result.first.filter((h) => h.found);
-
-  if (missed.length === 0) {
-    out += `✓ All headings from old page found on new page (${found.length})\n`;
-  } else {
-    out += `MISSED HEADINGS FROM OLD PAGE (${missed.length}):\n`;
-    missed.forEach((h) => {
-      const tag = h.tag.toUpperCase();
-      out += `  ✗ [${tag}] ${h.text}\n`;
-    });
-
-    if (found.length > 0) {
-      out += `\nFOUND ON NEW PAGE (${found.length}):\n`;
-      found.forEach((h) => {
-        const tag = h.tag.toUpperCase();
-        let line = `  ✓ [${tag}]`;
-        if (h.tag !== h.matchTag) {
-          line += ` (on new page as <${h.matchTag}>)`;
-        }
-        line += ` ${h.text}`;
-        out += `${line}\n`;
-      });
-    }
-  }
+  out += `\nNEW PAGE:\n${newPage}\n\n`;
+  out += `All Headings in Order:\n`;
+  result.newHeadings.forEach((h) => {
+    const tag = h.tag.toUpperCase();
+    out += `  [${tag}] ${h.text}\n`;
+  });
 
   out += "\n----------------------------------------\n\n";
 
@@ -116,21 +99,27 @@ function formatReport(oldPage, newPage, result) {
 ============================ */
 
 async function run() {
+  const browser = await puppeteer.launch();
+  const page = await browser.newPage();
+
   let output = "";
   output += "HEADING COMPARISON REPORT\n";
-  output += "Old → New (Missing Titles Only)\n";
+  output += "Old → New (All Headings)\n";
   output += "===============================\n\n";
 
   for (const { oldPage, newPage } of pagesData) {
-    const oldHeadings = await getHeadings(oldPage);
-    const newHeadings = await getHeadings(newPage);
+    console.log(`Comparing: ${oldPage} → ${newPage}`);
+    const oldHeadings = await getHeadings(page, oldPage);
+    const newHeadings = await getHeadings(page, newPage);
 
     const comparison = compareHeadings(oldHeadings, newHeadings);
     output += formatReport(oldPage, newPage, comparison);
   }
 
+  await browser.close();
   fs.writeFileSync("compared-titles.txt", output, "utf8");
-  // console.log("✔ Heading comparison complete → compared-titles.txt");
+  console.log("✔ Heading comparison complete → compared-titles.txt");
+  process.exit(0);
 }
 
-run();
+run().catch(console.error);

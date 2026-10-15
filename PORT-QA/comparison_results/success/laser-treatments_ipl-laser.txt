@@ -1,0 +1,21 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/ipl-laser/
+New Page: https://uabend.influx-dev.com/laser-treatments/ipl-laser/
+Generated: 2026-10-13T22:06:55.187Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (6 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/ipl-laser/ Scraped: 2026-10-13T22:06:54.925Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): IPL Laser make your skin glow IPL L...
+2. Melasma CONTACT DR
+3. VILLANO Our comfortable, state-of-the-art facility is home to the best cosmetic and medical care available, and our doors are always open to new patients
+4. If you are interested in IPL laser treatments for spot treatment and skin revitalization in Bend, Oregon, please contact the office of Dual Board Certified Facial Plastic Surgeon Dr
+5. Villano for your personal consultation
+6. SEND US A MESSAGE CALL US 541-312-3223 SUBSCRIBENOW
+

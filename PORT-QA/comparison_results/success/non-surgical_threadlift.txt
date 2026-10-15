@@ -1,0 +1,18 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/non-surgical/threadlift-2/
+New Page: https://uabend.influx-dev.com/non-surgical/threadlift/
+Generated: 2026-10-13T21:47:00.906Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+x
+MISSING TEXT CONTENT (3 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/non-surgical/threadlift-2/ Scraped: 2026-10-13T21:46:59.529Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Natural results No ...
+2. Together you and your specialist can create a plan to achieve them
+3. Find out about Nova Threads now Find out about Silhouette InstaLift now SUBSCRIBENOW
+

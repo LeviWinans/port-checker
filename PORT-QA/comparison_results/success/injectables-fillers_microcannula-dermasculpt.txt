@@ -1,0 +1,18 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/non-surgical/microcannuladermasculpt/
+New Page: https://uabend.influx-dev.com/injectables-fillers/microcannula-dermasculpt/
+Generated: 2026-10-13T21:28:58.067Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (3 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/non-surgical/microcannuladermasculpt/ Scraped: 2026-10-13T21:28:57.063Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Expert A...
+2. VILLANO For dermal filler treatments in Bend, Oregon, contact the office of Dual Board Certified Facial Plastic Surgeon Dr
+3. SEND US A MESSAGE CALL US 541-312-3223 SUBSCRIBENOW
+

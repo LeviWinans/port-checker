@@ -1,0 +1,36 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/breast-augmentation/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/breast-augmentation/
+Generated: 2026-09-29T00:52:00.202Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (13 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/breast-augmentation/ Scraped: 2026-09-29T00:51:52.436Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked...
+2. See Results Sensitive Content The following contains sensitive content
+3. Please continue at your own discretion
+4. Continue [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [I...
+5. By placing a breast implant or utilizing fat transfer, surgeons can add definition to the chest wall, balance hip-to-chest ratios, and create a more harmonious figure
+6. Volume Loss: Post-pregnancy and breastfeeding often leave the breast “deflated,” particularly in the upper pole
+7. Asymmetry: It is common for one breast to be smaller or shaped differently than the other
+8. Tubular Deformity: For women with constricted or tuberous breasts, augmentation combined with specialized surgical techniques can reshape the breast base
+9. Body Contouring Balance: For patients with wider hips or broad shoulders, adding volume to the chest creates a more balanced, hourglass silhouette
+10. Contact us today to book your appointment Get exclusive product discounts & treatment specials sent to your inbox
+11. "*" indicates required fields X/Twitter This field is for validation purposes and should be left unchanged
+12. Enter Email* Δ Frequently Asked Questions About Breast Augmentation in Houston How do I choose the right implant size? Choosing implant size is a balance between your desires and your anatomy
+13. We provide a comprehensive pain management plan, including pain medication and muscle relaxers, to keep you comfortable.
+
+MISSING ALT TAGS (5):
+----------------------------------------
+1. houston breast implant doctor showing implants to patient
+2. breast implant exchange Houston close up view of breast implants
+3. Houston preserve breast augmentation model
+4. breast reduction model in houston
+5. Houston plastic surgeon
+

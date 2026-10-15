@@ -1,0 +1,31 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/dermal-fillers/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/dermal-fillers/
+Generated: 2026-09-29T17:33:56.590Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (9 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/dermal-fillers/ Scraped: 2026-09-29T17:33:36.100Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): [I...
+2. Procedure options: Restylane, Juvederm, RHA, Sculptra [IMAGE: no alt text] Procedure Overview Addresses Mild Sagging or Loose Skin Loss of Volume Lack of Natural Shape or Contour Under Eye Bags Thin L...
+3. Results: What to Expect Immediate: You will see the volume instantly, but you will also be swollen
+4. The Settling Period: Hyaluronic acid takes about 2 weeks to integrate with your tissue and pull in water
+5. Longevity: Lips: 6–12 months (high movement area)
+6. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+7. "*" indicates required fields Facebook This field is for validation purposes and should be left unchanged
+8. Enter Email* Δ Frequently Asked Questions About Dermal Fillers in Houston What is the difference between Botox & Dermal Fillers? Botox (neurotoxin) relaxes muscles to stop wrinkles from forming
+9. Radiesse®: A calcium-based filler that provides structural definition to the jawline.
+
+MISSING ALT TAGS (4):
+----------------------------------------
+1. Dr. Downey meeting with a plastic surgery patient in Houston
+2. Heights Plastic Surgery Houston
+3. virtual consultation tool on a laptop
+4. Plastic surgery patient model at Heights plastic surgery in Houston
+

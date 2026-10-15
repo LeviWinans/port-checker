@@ -1,0 +1,17 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/non-surgical/nova-threads-threadlift/
+New Page: https://uabend.influx-dev.com/non-surgical/nova-threads-threadlift/
+Generated: 2026-10-13T21:47:00.909Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (2 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/non-surgical/nova-threads-threadlift/ Scraped: 2026-10-13T21:47:00.216Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Natural ...
+2. Michael Villano at VillanoMD to schedule your consultation and determine if this treatment is right for you! SUBSCRIBENOW
+

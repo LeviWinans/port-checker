@@ -1,0 +1,19 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/surgical/cheek-augmentation/
+New Page: https://uabend.influx-dev.com/face/cheek-augmentation/
+Generated: 2026-10-13T21:10:51.508Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (4 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/surgical/cheek-augmentation/ Scraped: 2026-10-13T21:10:47.233Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Expressive cheeks...
+2. VILLANO For cheek augmentation surgery in Bend, Oregon, contact the office of Dual Board Certified Facial Plastic Surgeon Dr
+3. Villano at VillanoMD
+4. SEND US A MESSAGE CALL US 541-312-3223
+

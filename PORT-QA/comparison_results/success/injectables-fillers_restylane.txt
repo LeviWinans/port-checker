@@ -1,0 +1,37 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/non-surgical/restylane/
+New Page: https://uabend.influx-dev.com/injectables-fillers/restylane/
+Generated: 2026-10-13T21:28:58.071Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (16 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/non-surgical/restylane/ Scraped: 2026-10-13T21:28:57.812Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Beauty Enhancer Restyl...
+2. The results of a treatment with Restylane are long-lasting without being permanent
+3. This allows for the freedom of choice whether to maintain the effect or not
+4. A treatment with Restylane will generally last six to 12 months
+5. Clinical studies have shown Restylane to be effective up to 18 months with only one re-treatment
+6. To maintain the results in the lips, a re-treatment is usually needed within six months
+7. With over 15 million treatments worldwide and extensive clinical documentation regarding safety and effectiveness, Restylane products are scientifically proven to provide natural results with long-las...
+8. Villano is Central Oregon’s expert in dermal filler applications
+9. He uses microcannula technology to ensure a bruiseless, atraumatic application
+10. Villano has over 20 years’ experience in facial cosmetic applications
+11. His focus is on your face, always
+12. Call today to schedule your personal consultation and to learn more about the Restylane family of products
+13. At VillanoMD, we’re here to support smiles, frowns, laughs, and kisses: all of life’s moving moments along your path of Timeless Beauty
+14. VILLANO For Restylane treatments in Bend, Oregon, contact the office of Dual Board Certified Facial Plastic Surgeon Dr
+15. Villano at VillanoMD
+16. SEND US A MESSAGE CALL US 541-312-3223
+
+MISSING ALT TAGS (3):
+----------------------------------------
+1. restylanebavolume
+2. restylanebafullface
+3. restylanebanose
+

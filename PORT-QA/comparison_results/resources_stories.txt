@@ -1,0 +1,30 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/stories/
+New Page: https://uabend.influx-dev.com/resources/stories/
+Generated: 2026-10-13T22:26:49.942Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (15 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/stories/ Scraped: 2026-10-13T22:26:49.596Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): My STORY Kimber got hit by a baseball...
+2. Click here to view Kimber's before and after
+3. [IMAGE: no alt text] [IMAGE: no alt text] Carleen is young at heart
+4. Click here to compare Carleen's before and after
+5. [IMAGE: no alt text] [IMAGE: no alt text] Take Control NOSE SURGERY, or rhinoplasty, is one of the most common types of surgery performed today
+6. [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] *These are typical patients
+7. [IMAGE: no alt text] [IMAGE: no alt text] *These are typical patients
+8. [IMAGE: no alt text] [IMAGE: no alt text] *These are typical patients
+9. [IMAGE: no alt text] [IMAGE: no alt text] *These are typical patients
+10. [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] *These are typical patients
+11. [IMAGE: no alt text] [IMAGE: no alt text] *These are typical patients
+12. [IMAGE: no alt text] [IMAGE: no alt text] *These are typical patients
+13. [IMAGE: no alt text] [IMAGE: no alt text] *These are typical patients
+14. [IMAGE: no alt text] [IMAGE: no alt text] *This is a typical patient
+15. Contact Us Name Phone Email Current Patient Yes No Message Newsletter Subscribe to our newsletter Submit Δ
+

@@ -1,0 +1,22 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/fractional-co2-laser-resurfacing/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/fractional-co2-laser-resurfacing/
+Generated: 2026-09-29T21:14:12.566Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (7 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/fractional-co2-laser-resurfacing/ Scraped: 2026-09-29T21:13:55.496Z ------------------------------------------ MAIN CONTENT (Alt tags and vide...
+2. [IMAGE: no alt text] Procedure Overview Addresses Fine lines and wrinkles Sun damage and uneven skin texture Acne scars and surgical scars Enlarged pores and roughness Irregular skin tone and laxity P...
+3. Studio Essex Schedule Your Houston Fractional CO2 Laser Resurfacing Consultation at Heights Plastic Surgery Today Ready to improve fine lines, uneven texture, and sun damage with clinically proven las...
+4. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+5. "*" indicates required fields Name This field is for validation purposes and should be left unchanged
+6. Enter Email* Δ Frequently Asked Questions About Fractional CO2 Laser Resurfacing in Houston Is Fractional CO2 Laser Resurfacing painful? A topical numbing cream keeps discomfort manageable
+7. Full recovery typically completes within seven to ten days with proper aftercare.
+

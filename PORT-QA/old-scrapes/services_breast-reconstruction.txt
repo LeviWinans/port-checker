@@ -1,0 +1,27 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/breast-reconstruction/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/breast-reconstruction/
+Generated: 2026-09-29T00:52:00.373Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (6 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/breast-reconstruction/ Scraped: 2026-09-29T00:51:57.489Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are mark...
+2. See Results Breast Reconstruction also known as: \ brest REE-kun-STRUK-shun \ Surgical addition of tissue, breast implant, or combination of both to the breast after a mastectomy or lumpectomy Procedu...
+3. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+4. "*" indicates required fields Email This field is for validation purposes and should be left unchanged
+5. Enter Email* Δ Frequently Asked Questions About Breast Reconstruction in Houston What is breast reconstruction surgery? Sometimes cancer requires that breast tissue be removed
+6. Downey will provide you with a detailed list of post-operative care instructions prior to your procedure so you can prepare for your breast reconstruction recovery in advance.
+
+MISSING ALT TAGS (3):
+----------------------------------------
+1. measuring a breast reduction patient in houston
+2. houston breast implant doctor showing implants to patient
+3. breast reduction model in houston
+

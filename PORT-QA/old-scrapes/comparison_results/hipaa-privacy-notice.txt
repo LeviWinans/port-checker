@@ -1,0 +1,18 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://havingbabies.com/hipaa-privacy-notice/
+New Page: https://havingbabies.influx-dev.com/hipaa-privacy-notice/
+Generated: 2026-07-28T22:10:05.959Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (3 chunks):
+----------------------------------------
+1. Source: https://havingbabies.com/hipaa-privacy-notice/ Scraped: 2026-07-28T22:10:05.185Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Home / HIPAA Notice o...
+2. If you have any questions regarding this notice or our health information privacy policies, please contact HRC Fertility at (626) 440-9161 and ask for Department of Education
+3. Notice of Privacy Practices 10/06/03 Revised 12/04/09, 01/15/14, 05/04/17, 05/08/19 New Patients Appointments: Call: 1.866.472.4483 Click: Online Request Form General Inquiries Patient Portal / Bill P...
+

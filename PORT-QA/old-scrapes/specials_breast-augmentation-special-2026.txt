@@ -1,0 +1,21 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/event/breast-augmentation-special-2026/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/specials/breast-augmentation-special-2026/
+Generated: 2026-09-30T04:18:29.802Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (6 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/event/breast-augmentation-special-2026/ Scraped: 2026-09-30T04:18:26.855Z ------------------------------------------ MAIN CONTENT (Alt tags and videos ...
+2. Houston, Texas 77018 Date August 1 - November 30, 2026 Time All Day Breast Augmentation Special Ready to make your breast goals a reality? For a limited time, we’re offering $750 OFF Breast Augmentati...
+3. Steps to redeem: Download the MENTOR Breast Simulator App and setup an account
+4. Get MemoryGel BOOST Implants for your breast augmentation during the promo period
+5. Visit www.MentorBOOSTpromo.com to complete the entry form
+6. Add to Google Calendar iCal / Outlook Export Share Copied
+

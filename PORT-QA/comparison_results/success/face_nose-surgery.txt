@@ -1,0 +1,19 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/surgical/nose-surgery/
+New Page: https://uabend.influx-dev.com/face/nose-surgery/
+Generated: 2026-10-13T21:10:51.514Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (4 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/surgical/nose-surgery/ Scraped: 2026-10-13T21:10:50.548Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Rhinoplasty Nose Surger...
+2. VILLANO For rhinoplasty in Bend, Oregon, contact the office of Dual Board Certified Facial Plastic Surgeon Dr
+3. Villano at VillanoMD
+4. SEND US A MESSAGE CALL US 541-312-3223
+

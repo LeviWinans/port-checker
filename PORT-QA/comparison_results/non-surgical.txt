@@ -1,0 +1,32 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/non-surgical/
+New Page: https://uabend.influx-dev.com/non-surgical/
+Generated: 2026-10-15T16:26:23.969Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (10 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/non-surgical/ Scraped: 2026-10-15T16:26:23.405Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): NON-SURGICAL PROCEDURES Non-Surg...
+2. Villano and his trained and certified team are ready to answer all of your questions and address your concerns in the private setting of your personal consultation
+3. We are the experts, and we are here to advise you on which non-surgical treatments are best suited to benefit you
+4. Schedule your personal consultation to find out more about the procedures we offer
+5. Contact Us Contact Us Name Phone Email Current Patient Yes No Message Newsletter Subscribe to our newsletter Submit Δ Non-Surgical Medical Aesthetics Procedures Non-Surgical Face Chart Mouse over face...
+6. Mid Face DYSPORT / DAXXIFY / BOTOX Smooth & correct forehead lines, frown lines, crow’s feet, lip lines & neck creases to reclaim a more youthful you FOTOFACIAL RF Correct & minimize skin irregulariti...
+7. Lower Face DYSPORT / DAXXIFY / BOTOX Smooth & correct forehead lines, frown lines, crow’s feet, lip lines & neck creases to reclaim a more youthful you FOTOFACIAL RF Correct & minimize skin irregulari...
+8. Full Face DERMAPLANE Exfoliate the epidermis while ridding the skin of fine hair for a smooth, refreshed look HYDRAFACIAL Cleanse, Extract, Hydrate: three steps to a glowing complexion MICRONEEDLING P...
+9. SKIN CARE PRODUCTS Don’t forget your daily maintenance – our skin care lines are physician-approved and tailored to you x view full face Non-Surgical Face Chart Click below to see all the services we ...
+10. Call the Experts Now 541-312-3223 SUBSCRIBENOW
+
+MISSING ALT TAGS (4):
+----------------------------------------
+1. Upper Face
+2. Mid Face
+3. Lower Face
+4. Full Face
+

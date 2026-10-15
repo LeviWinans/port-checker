@@ -1,0 +1,20 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/calendar/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/specials/
+Generated: 2026-09-30T04:18:29.796Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (5 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/calendar/ Scraped: 2026-09-30T04:18:13.799Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Heights Plastic S...
+2. while saving big! July 1 - September 30, 2026 All Day Heights Plastic Surgery & Studio Essex Medical Spa 2813 W T C Jester Blvd Houston, TX 77018 View Details August 2026 [IMAGE: no alt text] Breast A...
+3. August 1 - November 30, 2026 All Day Heights Plastic Surgery 2813 W TC Jester Blvd
+4. Houston, Texas 77018 View Details September 2026 [IMAGE: no alt text] September Skincare Special Get your glow-ready essentials with 15% OFF when you purchase all three: ZO® Retinol Skin Brightener ZO...
+5. September 1-30, 2026 All Day Heights Plastic Surgery & Studio Essex Medical Spa 2813 W T C Jester Blvd Houston, TX 77018 View Details
+

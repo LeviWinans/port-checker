@@ -1,0 +1,34 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/dermatology/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/dermatology/
+Generated: 2026-09-29T18:53:51.334Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (13 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/dermatology/ Scraped: 2026-09-29T18:53:47.549Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): [IMAG...
+2. Procedure Overview Addresses Acne and acne scars Wrinkles, fine lines, and sagging skin Skin cancer screenings and prevention Rosacea and eczema flare-ups Dark spots and uneven skin tone Hair thinning...
+3. Possible Side Effects Frequently Asked Questions Jump to FAQs Customized for Your Skin Comprehensive Medical Dermatology Services At Heights Plastic Surgery, we offer a wide array of medical dermatolo...
+4. Benefits of Dermatology Services: Improved Skin Texture: Smoother, clearer skin through treatments that reduce acne, scars, and other imperfections
+5. Reduction in Fine Lines and Wrinkles: Anti-aging treatments help soften lines and rejuvenate skin
+6. Even Skin Tone: Solutions for hyperpigmentation and melasma provide a more uniform complexion
+7. Hydrated, Healthier Skin: Targeted treatments balance moisture levels and promote healthier skin
+8. Acne Control: Treatments help manage breakouts and prevent future scarring
+9. Hair Restoration: Scalp treatments promote thicker, fuller hair
+10. Get exclusive product discounts & treatment specials sent to your inbox
+11. "*" indicates required fields LinkedIn This field is for validation purposes and should be left unchanged
+12. Enter Email* Δ Frequently Asked Questions About Laser Hair Removal in Houston How often should I schedule a skin cancer screening? It’s recommended to have a skin cancer screening once a year, but mor...
+13. We’ll provide a detailed estimate during your consultation based on your individual needs.
+
+MISSING ALT TAGS (3):
+----------------------------------------
+1. Heights Plastic Surgery in Houston, TX
+2. crystal whitby
+3. Plastic surgery patient model at Heights plastic surgery in Houston
+

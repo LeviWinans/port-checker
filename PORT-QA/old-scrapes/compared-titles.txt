@@ -1,0 +1,271 @@
+HEADING COMPARISON REPORT
+Old → New (All Headings)
+===============================
+
+OLD PAGE:
+https://aereaesthetics.com/weight-loss/
+
+All Headings in Order:
+  ✓ [H1] AERE: Semaglutide and Tirzepatide for  Weight Loss in Colorado
+  ✗ [H3] 27k
+  ✓ [H2] Unlock the Power of Semaglutide/Tirzepatide to Transform Your Weight Loss Journey
+  ✓ [H3] Semaglutide Treatment Pricing
+  ✓ [H3] Weekly Injection Plan
+  ✓ [H3] Weekly Injection Plan
+  ✓ [H3] Tirzepatide Treatment Pricing
+  ✓ [H3] Why Choose Semaglutide/Tirzepatide for Weight Loss?
+  ✗ [H3] Personalized Medical Support
+  ✗ [H3] Monthly RN Check-ins & Medication Delivery
+  ✗ [H3] In-Home Body Composition Analysis
+  ✗ [H3] Complimentary Vitamin Enhancements
+  ✗ [H3] Clinically Proven Medications
+  ✗ [H3] Exclusive Nutrition Partner Discounts
+  ✓ [H2] How It Works
+  ✓ [H2] See How Semaglutide and Tirzepatide Helped others
+  ✓ [H2] Ready to Transform Your Life?
+
+NEW PAGE:
+https://aereaesthetics.influx-dev.com/medical-weight-loss/
+
+All Headings in Order:
+  [H1] AERE: Semaglutide and Tirzepatide for  Weight Loss in Colorado
+  [H2] Aere is partnering with US Mobile Medics to offer weight loss services!
+  [H2] Unlock the Power of Semaglutide/Tirzepatide to Transform Your Weight Loss Journey
+  [H3] Cutting-edge Treatments
+  [H2] Why Choose Semaglutide/Tirzepatide  for Weight Loss?
+  [H2] Semaglutide Treatment  Pricing
+  [H3] Semaglutide/GLP-1
+  [H2] WEEKLY INJECTION PLAN
+  [H3] Regimen 1
+  [H3] Regimen 2
+  [H3] Regimen 3
+  [H3] Regimen 4
+  [H3] Regimen 5
+  [H2] Tirzepatide Treatment  Pricing
+  [H3] Tirzepatide/GIP/GLP-1
+  [H2] WEEKLY INJECTION PLAN
+  [H3] Regimen 1
+  [H3] Regimen 2
+  [H3] Regimen 3
+  [H3] Regimen 4
+  [H3] Regimen 5
+  [H3] Regimen 6
+  [H2] How It Works
+  [H3] Initial Consultation
+  [H3] Personalized Treatment Plan
+  [H3] At-Home Administration
+  [H3] Regular Follow-Ups
+  [H2] See How Semaglutide and Tirzepatide Helped others
+  [H2] Ready to Transform Your Life?
+  [H2] Beverly Hills
+  [H2] Denver
+  [H2] Vail
+  [H2] Experience a Higher STANDARD OF AESTHETICS
+  [H3] Book Your Consultation
+  [H2] Error with Form Submission
+  [H2] Thank you for your submission!
+
+----------------------------------------
+
+OLD PAGE:
+https://aereaesthetics.com/fine-lines-and-wrinkles/
+
+All Headings in Order:
+  ✓ [H1] Fine Lines and Wrinkles
+  ✓ [H2] Botox & Dysport
+  ✓ [H2] Potenza RF Microneedling
+  ✗ [H2] Have A Question?
+  ✗ [H2] Get $50 Off Your First Treatment
+
+NEW PAGE:
+https://aereaesthetics.influx-dev.com/fine-lines-wrinkles/
+
+All Headings in Order:
+  [H1] Fine Lines and Wrinkles
+  [H2] Botox & Dysport
+  [H2] Potenza RF Microneedling
+  [H2] Experience a Higher STANDARD OF AESTHETICS
+  [H3] Book Your Consultation
+  [H2] Error with Form Submission
+  [H2] Thank you for your submission!
+
+----------------------------------------
+
+OLD PAGE:
+https://aereaesthetics.com/undereyes/
+
+All Headings in Order:
+  ✓ [H1] Undereyes
+  ✓ [H2] Fillers
+  ✓ [H2] PRF (Platelet-Rich Fibrin)
+  ✗ [H2] Have A Question?
+  ✗ [H2] Get $50 Off Your First Treatment
+
+NEW PAGE:
+https://aereaesthetics.influx-dev.com/under-eyes/
+
+All Headings in Order:
+  [H1] Undereyes
+  [H2] Fillers
+  [H2] PRF (Platelet-Rich Fibrin)
+  [H2] Experience a Higher STANDARD OF AESTHETICS
+  [H3] Book Your Consultation
+  [H2] Error with Form Submission
+  [H2] Thank you for your submission!
+
+----------------------------------------
+
+OLD PAGE:
+https://aereaesthetics.com/volume-loss/
+
+All Headings in Order:
+  ✓ [H1] Volume Loss
+  ✓ [H2] Fillers
+  ✓ [H2] Sculptra
+  ✗ [H2] Have A Question?
+  ✗ [H2] Get $50 Off Your First Treatment
+
+NEW PAGE:
+https://aereaesthetics.influx-dev.com/volume-loss/
+
+All Headings in Order:
+  [H1] Volume Loss
+  [H2] Fillers
+  [H2] Sculptra
+  [H2] Experience a Higher STANDARD OF AESTHETICS
+  [H3] Book Your Consultation
+  [H2] Error with Form Submission
+  [H2] Thank you for your submission!
+
+----------------------------------------
+
+OLD PAGE:
+https://aereaesthetics.com/skin-tightening/
+
+All Headings in Order:
+  ✓ [H1] Skin Tightening
+  ✓ [H2] PDO Threads
+  ✓ [H2] Sculptra
+  ✓ [H2] Potenza RF Microneedling
+  ✗ [H2] Have A Question?
+  ✗ [H2] Get $50 Off Your First Treatment
+
+NEW PAGE:
+https://aereaesthetics.influx-dev.com/skin-tightening/
+
+All Headings in Order:
+  [H1] Skin Tightening
+  [H2] PDO Threads
+  [H2] Sculptra
+  [H2] Potenza RF Microneedling
+  [H2] Experience a Higher STANDARD OF AESTHETICS
+  [H3] Book Your Consultation
+  [H2] Error with Form Submission
+  [H2] Thank you for your submission!
+
+----------------------------------------
+
+OLD PAGE:
+https://aereaesthetics.com/jawline/
+
+All Headings in Order:
+  ✓ [H1] Jawline
+  ✓ [H2] Kybella
+  ✓ [H2] PDO Threads
+  ✓ [H2] Fillers
+  ✗ [H2] Have A Question?
+  ✗ [H2] Get $50 Off Your First Treatment
+
+NEW PAGE:
+https://aereaesthetics.influx-dev.com/jawline/
+
+All Headings in Order:
+  [H1] Jawline
+  [H2] Kybella
+  [H2] PDO Threads
+  [H2] Fillers
+  [H2] Experience a Higher STANDARD OF AESTHETICS
+  [H3] Book Your Consultation
+  [H2] Error with Form Submission
+  [H2] Thank you for your submission!
+
+----------------------------------------
+
+OLD PAGE:
+https://aereaesthetics.com/skin-texture-and-scars/
+
+All Headings in Order:
+  ✓ [H1] Skin Texture and Scars
+  ✓ [H2] PRF (Platelet-Rich Fibrin)
+  ✓ [H2] Potenza RF Microneedling
+  ✓ [H2] VI Peels
+  ✗ [H2] Have A Question?
+  ✗ [H2] Get $50 Off Your First Treatment
+
+NEW PAGE:
+https://aereaesthetics.influx-dev.com/skin-texture-scars/
+
+All Headings in Order:
+  [H1] Skin Texture and Scars
+  [H2] PRF (Platelet-Rich Fibrin)
+  [H2] Potenza RF Microneedling
+  [H2] VI Peels
+  [H2] Experience a Higher STANDARD OF AESTHETICS
+  [H3] Book Your Consultation
+  [H2] Error with Form Submission
+  [H2] Thank you for your submission!
+
+----------------------------------------
+
+OLD PAGE:
+https://aereaesthetics.com/pigmentation/
+
+All Headings in Order:
+  ✓ [H1] Pigmentation
+  ✓ [H2] Cosmelan
+  ✓ [H2] Potenza RF Microneedling
+  ✓ [H2] VI Peels
+  ✓ [H2] DiamondGlow® and Facials
+  ✗ [H2] Have A Question?
+  ✗ [H2] Get $50 Off Your First Treatment
+
+NEW PAGE:
+https://aereaesthetics.influx-dev.com/pigmentation/
+
+All Headings in Order:
+  [H1] Pigmentation
+  [H2] Cosmelan
+  [H2] Potenza RF Microneedling
+  [H2] VI Peels
+  [H2] DiamondGlow® and Facials
+  [H2] Experience a Higher STANDARD OF AESTHETICS
+  [H3] Book Your Consultation
+  [H2] Error with Form Submission
+  [H2] Thank you for your submission!
+
+----------------------------------------
+
+OLD PAGE:
+https://aereaesthetics.com/lips/
+
+All Headings in Order:
+  ✓ [H1] Lips
+  ✗ [H2] Fillers
+  ✓ [H2] Aquagold Facial
+  ✗ [H2] Have A Question?
+  ✗ [H2] Get $50 Off Your First Treatment
+
+NEW PAGE:
+https://aereaesthetics.influx-dev.com/lips/
+
+All Headings in Order:
+  [H1] Lips
+  [H2] FillTESTers
+  [H2] Aquagold Facial
+  [H2] Experience a Higher STANDARD OF AESTHETICS
+  [H3] Book Your Consultation
+  [H2] Error with Form Submission
+  [H2] Thank you for your submission!
+
+----------------------------------------
+

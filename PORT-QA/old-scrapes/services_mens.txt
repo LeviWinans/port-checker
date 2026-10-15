@@ -1,0 +1,30 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/mens/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/mens/
+Generated: 2026-09-29T21:01:40.511Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (9 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/mens/ Scraped: 2026-09-29T21:01:40.041Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Men's Servic...
+2. Procedure Overview Addresses Wrinkles and fine lines (forehead, crow’s feet, frown lines) Loss of facial volume (jawline, chin, cheeks) Skin texture issues (acne scars, uneven skin tone) Stubborn fat ...
+3. Learn More Learn More About Men’s Services in Houston, TX at Heights Plastic Surgery Today Take the first step towards enhancing your appearance and optimizing your well-being by scheduling a consulta...
+4. Our team of experienced professionals will work with you to create a customized treatment plan that fits your goals and lifestyle
+5. If you’re looking for non-surgical treatments or surgical procedures, we provide personalized, discreet care in a modern and comfortable setting
+6. Get exclusive product discounts & treatment specials sent to your inbox
+7. "*" indicates required fields Email This field is for validation purposes and should be left unchanged
+8. Enter Email* Δ Frequently Asked Questions About Laser Hair Removal in Houston What Men’s Service treatments are best for reducing wrinkles and fine lines? Injectables like Botox and dermal fillers are...
+9. Contact us for a personalized consultation to discuss pricing based on your needs.
+
+MISSING ALT TAGS (3):
+----------------------------------------
+1. Heights Plastic Surgery in Houston, TX
+2. patient meeting with Dr. Bullocks
+3. woman with brown hair and red purse
+

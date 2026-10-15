@@ -1,0 +1,28 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/breast-implant-exchange/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/breast-implant-exchange/
+Generated: 2026-09-29T00:52:00.354Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (7 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/breast-implant-exchange/ Scraped: 2026-09-29T00:51:56.277Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are ma...
+2. See Results Sensitive Content The following contains sensitive content
+3. Please continue at your own discretion
+4. Continue [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] Breast Implant Exchange also known as: breast implant revision, breast augmentation correction / brest IM-p...
+5. After receiving their breast implant exchange Houston patients are one step closer to achieving their beauty goals! Learn More Get exclusive product discounts & treatment specials sent to your inbox
+6. "*" indicates required fields X/Twitter This field is for validation purposes and should be left unchanged
+7. Enter Email* Δ Frequently Asked Questions About Houston Breast Implant Exchange My implants are 10 years old
+
+MISSING ALT TAGS (3):
+----------------------------------------
+1. houston breast implant doctor showing implants to patient
+2. breast implant exchange Houston close up view of breast implants
+3. Brest implant exchange Houston model holding an implant in each hand
+

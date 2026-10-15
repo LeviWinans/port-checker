@@ -1,0 +1,21 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/do-i-need-plastic-surgery/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/resources/do-i-need-plastic-surgery/
+Generated: 2026-09-30T04:14:59.339Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (2 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/do-i-need-plastic-surgery/ Scraped: 2026-09-30T04:14:56.614Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): ...
+2. Bullocks [IMAGE: no alt text] AAAASF Accredidation [IMAGE: no alt text] [IMAGE: no alt text] Ready to make your decision? Set up your consultation today! Book a consultation with us to make lasting ch...
+
+MISSING ALT TAGS (1):
+----------------------------------------
+1. Height Plastic Surgery waiting room
+

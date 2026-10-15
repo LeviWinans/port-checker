@@ -1,0 +1,17 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/event/boost-your-glow/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/specials/boost-your-glow/
+Generated: 2026-09-30T04:18:29.797Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (2 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/event/boost-your-glow/ Scraped: 2026-09-30T04:18:16.361Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Boos...
+2. Add to Google Calendar iCal / Outlook Export Share Copied
+

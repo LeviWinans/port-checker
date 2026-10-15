@@ -1,0 +1,17 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://havingbabies.com/privacy-policy/
+New Page: https://havingbabies.influx-dev.com/privacy-policy/
+Generated: 2026-07-28T22:10:05.950Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (2 chunks):
+----------------------------------------
+1. Source: https://havingbabies.com/privacy-policy/ Scraped: 2026-07-28T22:10:04.873Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Home / Privacy Policy Websi...
+2. Cookie Policy New Patients Appointments: Call: 1.866.472.4483 Click: Online Request Form General Inquiries Patient Portal / Bill Pay Media Inquiries: publicrelations@havingbabies.com Quick Links HRC –...
+

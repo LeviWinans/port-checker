@@ -1,0 +1,29 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/laser-hair-removal/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/laser-hair-removal/
+Generated: 2026-09-29T21:14:12.619Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (7 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/laser-hair-removal/ Scraped: 2026-09-29T21:13:59.792Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked)...
+2. Laser Hair Removal also known as: laser hair reduction Light energy directed into a patient's skin over the course of multiple sessions to reduce hair thickness and density Procedure Overview Addresse...
+3. View All Before & Afters What is Laser Hair Removal? Laser hair removal is a treatment that uses concentrated light energy to target hair follicles and reduce future growth
+4. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+5. "*" indicates required fields LinkedIn This field is for validation purposes and should be left unchanged
+6. Enter Email* Δ Frequently Asked Questions About Laser Hair Removal in Houston How many laser hair removal treatments will I need? Most patients need a series of treatments because hair grows in cycles
+7. A fuller result develops over the course of the treatment series.
+
+MISSING ALT TAGS (4):
+----------------------------------------
+1. Heights Plastic Surgery in Houston, TX
+2. houston plastic surgery model with hand on her face
+3. Houston med spa model receiving light treatment
+4. Plastic surgery patient model at Heights plastic surgery in Houston
+

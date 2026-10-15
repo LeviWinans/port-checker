@@ -1,0 +1,23 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/non-surgical/erbium-laser/
+New Page: https://uabend.influx-dev.com/laser-treatments/erbium-laser/
+Generated: 2026-10-13T22:06:55.182Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (8 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/non-surgical/erbium-laser/ Scraped: 2026-10-13T22:06:53.854Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Serious Skin Care E...
+2. How It Works The ErbiumYag Laser is an ablative laser that has an affinity for the water content in the skin
+3. The Erbium Laser light is absorbed by the water in the targeted skin cells causing instantaneous vaporization of the cell in a controlled manner
+4. The surface layers of skin are destroyed, which in turn kicks up collagen production as part of the healing process
+5. Contact Us Contact Us Name Phone Email Current Patient Yes No Message Newsletter Subscribe to our newsletter Submit Δ Call (541) 312.3223 to schedule your appointment today
+6. VILLANO For Erbium Laser treatments in Bend, Oregon, contact the office of Dual Board Certified Facial Plastic Surgeon Dr
+7. Villano at VillanoMD
+8. SEND US A MESSAGE CALL US 541-312-3223
+

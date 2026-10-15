@@ -1,0 +1,17 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/hps-post-op-instructions/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/resources/hps-post-op-instructions/
+Generated: 2026-09-30T04:14:59.339Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (2 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/hps-post-op-instructions/ Scraped: 2026-09-30T04:14:57.545Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): H...
+2. [IMAGE: no alt text] Drain Care [IMAGE: no alt text] Compression Care [IMAGE: no alt text] Have more Questions? Contact Us
+

@@ -1,0 +1,26 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/med-spa/
+New Page: https://uabend.influx-dev.com/med-spa/
+Generated: 2026-10-15T16:11:15.161Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (11 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/med-spa/ Scraped: 2026-10-15T16:11:14.698Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): [IMAGE: no alt text] [IMAGE: no alt t...
+2. The skin care products at VillanoMD are proven effective in maintaining optimum skin health
+3. More powerful than those available at salons and stores, our preparations are calibrated to work with your skin type
+4. Our lines include Alastin Skincare and SkinBetterScience
+5. For sun protection we feature products from EltaMD
+6. Let our skin care specialists create a comprehensive and truly personalized skin-care regimen for you
+7. We are particularly excited to offer precision formulations in our Timeless Beauty by VillanoMD Skin Care line
+8. Stop by and find out more about this hand-crafted physician line developed by Dr
+9. Learn more about these products and all of the services at VillanoMD at your personalized skin care consultation
+10. Schedule yours today
+11. SKIN CARE PRODUCTS SUBSCRIBENOW
+

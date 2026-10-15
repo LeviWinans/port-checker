@@ -1,0 +1,24 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/non-surgical/dermaplane/
+New Page: https://uabend.influx-dev.com/skin-treatments/dermaplane/
+Generated: 2026-10-13T22:01:49.372Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (5 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/non-surgical/dermaplane/ Scraped: 2026-10-13T22:01:48.611Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Get Your Glow On Derm...
+2. The refined, smooth result will leave you glowing! CONTACT DR
+3. VILLANO For Dermaplane treatments in Bend, Oregon, contact the office of Dual Board Certified Facial Plastic Surgeon Dr
+4. Villano at VillanoMD
+5. SEND US A MESSAGE CALL US 541-312-3223
+
+MISSING ALT TAGS (1):
+----------------------------------------
+1. _h6n4962
+

@@ -1,0 +1,36 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/breast-augmentation-with-lift/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/breast-augmentation-with-lift/
+Generated: 2026-09-29T00:52:00.461Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (12 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/breast-augmentation-with-lift/ Scraped: 2026-09-29T00:51:59.851Z ------------------------------------------ MAIN CONTENT (Alt tags and videos ...
+2. See Results Sensitive Content The following contains sensitive content
+3. Please continue at your own discretion
+4. Continue [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [I...
+5. The Initial Consultation: You will meet with a board-certified plastic surgeon in Houston to discuss your goals
+6. Select Your Implants: We will guide you through choosing highly cohesive silicone breast implants, saline implants, or even exploring autologous fat transfer for subtle volume enhancements alongside m...
+7. Medical Clearance: You must stop taking blood-thinning agents like aspirin and heavy fish oil supplements two weeks prior to surgery
+8. Arrange Support: Because this involves general anesthesia, a responsible adult must drive you home and monitor you for the first 24 hours
+9. Contact us today to book your appointment Get exclusive product discounts & treatment specials sent to your inbox
+10. "*" indicates required fields Name This field is for validation purposes and should be left unchanged
+11. Enter Email* Δ Frequently Asked Questions about Breast Augmentation with Lift Can I still breastfeed after this surgery? While many women retain the ability to breastfeed, the surgery does require rep...
+12. While modern cohesive gel (gummy bear) implants are incredibly durable, most patients should anticipate replacing or exchanging their implants every 10 to 15 years due to natural wear, capsular contra...
+
+MISSING ALT TAGS (6):
+----------------------------------------
+1. houston breast implant doctor showing implants to patient
+2. breast implant exchange Houston close up view of breast implants
+3. Houston preserve breast augmentation model
+4. breast reduction model in houston
+5. virtual consultation tool on a laptop
+6. Houston plastic surgeon
+

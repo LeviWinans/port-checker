@@ -1,0 +1,17 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://havingbabies.com/cookie_policy/
+New Page: https://havingbabies.influx-dev.com/cookie-policy/
+Generated: 2026-07-28T22:10:05.838Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (2 chunks):
+----------------------------------------
+1. Source: https://havingbabies.com/cookie_policy/ Scraped: 2026-07-28T22:10:04.247Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): EFFECTIVE DATE: FEBRUARY 10,...
+2. For more information on your rights and how to exercise them, please see our Privacy Policy, available at https://havingbabies.com/privacy-policy/.
+

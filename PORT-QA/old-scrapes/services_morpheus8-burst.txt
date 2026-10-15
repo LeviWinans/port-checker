@@ -1,0 +1,27 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/morpheus8-burst/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/morpheus8-burst/
+Generated: 2026-09-29T21:14:12.675Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (8 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/morpheus8-burst/ Scraped: 2026-09-29T21:14:02.612Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): [...
+2. Microneedling also known as: Collagen Induction Therapy [IMAGE: no alt text] Procedure Overview Addresses Skin laxity and loose skin Uneven skin tone and texture Fine lines and wrinkles Enlarged pores...
+3. Eligibility Most patients in good health Mild to moderate skin laxity Uneven skin tone or texture Candidates not ready for more invasive procedures No active infections or blood disorders Possible Sid...
+4. Customized Microneedling Treatments View All Before & Afters [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] Why Choose Heights Plastic Surgery? At Heights Plastic ...
+5. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+6. "*" indicates required fields Phone This field is for validation purposes and should be left unchanged
+7. Enter Email* Δ Frequently Asked Questions About Microneedling in Houston Is Microneedling painful? Most patients find the procedure tolerable
+8. Minor redness and sensitivity may occur temporarily.
+
+MISSING ALT TAGS (1):
+----------------------------------------
+1. Houston plastic surgeon
+

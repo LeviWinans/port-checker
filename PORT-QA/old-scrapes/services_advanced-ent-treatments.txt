@@ -1,0 +1,24 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/advanced-ent-treatments/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/advanced-ent-treatments/
+Generated: 2026-09-29T21:01:40.456Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (5 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/advanced-ent-treatments/ Scraped: 2026-09-29T21:01:37.412Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are ma...
+2. ENT Treatments also known as: /ˌiː.enˈtiː/ Procedure options: Nasal & Sinus Disorders, Functional & Structural Nasal Surgery, Skin Cancer Diagnosis & Reconstruction, Facial Reconstruction & Scar Revis...
+3. "*" indicates required fields Phone This field is for validation purposes and should be left unchanged
+4. Enter Email* Δ Frequently Asked Questions How do I know if my breathing problem is structural or just allergies? If nasal congestion is constant and does not improve with allergy medication, sprays, o...
+5. Structural problems require surgical evaluation, not additional prescriptions.
+
+MISSING ALT TAGS (1):
+----------------------------------------
+1. houston plastic surgery model applying facial cream
+

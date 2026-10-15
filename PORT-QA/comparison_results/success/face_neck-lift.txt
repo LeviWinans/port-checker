@@ -1,0 +1,21 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/surgical/neck-lift/
+New Page: https://uabend.influx-dev.com/face/neck-lift/
+Generated: 2026-10-13T21:10:51.513Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (6 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/surgical/neck-lift/ Scraped: 2026-10-13T21:10:49.819Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Restore Beauty Neck Lift S...
+2. Click here to view BEFORE/AFTER photos This is a typical patient
+3. There is no guarantee of specific results and results can vary
+4. VILLANO For neck lift surgery in Bend, Oregon, contact the office of Dual Board Certified Facial Plastic Surgeon Dr
+5. Villano at VillanoMD
+6. SEND US A MESSAGE CALL US 541-312-3223
+

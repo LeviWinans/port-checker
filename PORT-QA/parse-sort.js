@@ -6,8 +6,8 @@ const filePath = path.join(__dirname, 'sort.txt');
 const content = fs.readFileSync(filePath, 'utf8');
 
 // Base URLs (you may need to adjust these)
-const oldBaseUrl = 'https://www.zenregen.com';
-const newBaseUrl = 'https://zenregen.influx-dev.com';
+const oldBaseUrl = 'https://villanomd.com';
+const newBaseUrl = 'https://uabend.influx-dev.com';
 
 // Split into lines and process
 const lines = content.split('\n');
