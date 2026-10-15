@@ -1,5 +1,5 @@
 # PORT QA
-    sort.txt & run-comparison.js
+    sort.txt & run.js
 
 ## Steps
     Step 1: Update Outline
@@ -8,7 +8,7 @@
     Step 2: Update domains
         parse-sort.js consts oldBaseUrl & newBaseUrl domains
     Step 3: Run 
-        node run-comparison.js  
+        node run.js  
             Runs: 
                 node parse-sort.js
                 node scrape-content.js
