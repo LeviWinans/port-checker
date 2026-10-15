@@ -14,12 +14,3 @@
     Run: node compare-titles.js 
 
     If you need to change the PORT Page scrape element/class targets, go to: scrape-content.js
-
-## PORT-PDF
-    Goal: scrape pdfs from page
-
-## PORT-IMG
-    Goal: scrape images from page
-
-## PORT-gallery
-    Goal: scrape galleries from pages
