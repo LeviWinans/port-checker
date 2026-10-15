@@ -1,0 +1,24 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://havingbabies.com/clinical-research/
+New Page: https://havingbabies.influx-dev.com/clinical-research/
+Generated: 2026-07-30T18:33:56.699Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (3 chunks):
+----------------------------------------
+1. Source: https://havingbabies.com/clinical-research/ Scraped: 2026-07-30T18:33:56.342Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Home / Clinical Research...
+2. The GAMETO trial introduces an innovative alternative: Eggs are retrieved earlier in their development Matured in the laboratory using advanced cellular technology Fertilized and developed into embryo...
+3. Robert Boostanfar New Patients Appointments: Call: 1.866.472.4483 Click: Online Request Form General Inquiries Patient Portal / Bill Pay Media Inquiries: publicrelations@havingbabies.com Quick Links H...
+
+MISSING ALT TAGS (3):
+----------------------------------------
+1. Encino IVF Investigational Study
+2. GRACE IVF Study - HRC Fertility
+3. Dr. Robert Boostanfar of HRC Fertility Encino and Westlake Village
+

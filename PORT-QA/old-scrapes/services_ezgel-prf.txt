@@ -1,0 +1,31 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/ezgel-prf/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/ezgel-prf/
+Generated: 2026-09-29T17:33:56.627Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (8 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/ezgel-prf/ Scraped: 2026-09-29T17:33:42.771Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): [IMAGE:...
+2. ezGEL also known as: PRF (Platelet-Rich Fibrin) Procedure Overview Addresses Fine lines, wrinkles, and sagging skin Dark circles and hollows under the eyes Subtle volume loss in the face, neck, and ha...
+3. Frequently Asked Questions Jump to FAQs How is Platelet-Rich Fibrin Harvested? ezGEL PRF is created from a small blood draw processed using a high-speed centrifuge to isolate platelet-rich fibrin, whi...
+4. 📞 Call us today at 346.552.8050 or book an appointment online
+5. Get exclusive product discounts & treatment specials sent to your inbox
+6. "*" indicates required fields Name This field is for validation purposes and should be left unchanged
+7. Enter Email* Δ Frequently Asked Questions About Facelifts in Houston Is ezGEL treatment painful? Most patients experience minimal discomfort
+8. Pricing will be discussed during the consultation.
+
+MISSING ALT TAGS (5):
+----------------------------------------
+1. Houston plastic surgeon
+2. Heights Plastic Surgery Houston
+3. Heights Plastic Surgery Houston
+4. Dr. Downey meeting with a plastic surgery patient in Houston
+5. virtual consultation tool on a laptop
+

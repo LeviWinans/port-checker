@@ -1,0 +1,17 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/careers/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/about/careers/
+Generated: 2026-09-30T04:14:59.329Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (2 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/careers/ Scraped: 2026-09-30T04:14:54.013Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Are you a motivate...
+2. KEY JOB RESPONSIBILITIES Conduct in-depth patient interviews that include taking medical history, explaining risks and benefits, and obtaining signed consents for procedures Administer services includ...
+

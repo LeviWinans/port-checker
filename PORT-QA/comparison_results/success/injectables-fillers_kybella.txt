@@ -1,0 +1,19 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/non-surgical/kybella/
+New Page: https://uabend.influx-dev.com/injectables-fillers/kybella/
+Generated: 2026-10-13T21:28:58.065Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (4 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/non-surgical/kybella/ Scraped: 2026-10-13T21:28:56.059Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Good Bye Double Chin Kyb...
+2. VILLANO For Kybella treatments in Bend, Oregon, contact the office of Dual Board Certified Facial Plastic Surgeon Dr
+3. Villano at VillanoMD
+4. SEND US A MESSAGE CALL US 541-312-3223
+

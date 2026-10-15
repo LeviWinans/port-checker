@@ -1,0 +1,30 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/gynecomastia-surgery/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/gynecomastia-surgery/
+Generated: 2026-09-29T00:52:00.418Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (7 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/gynecomastia-surgery/ Scraped: 2026-09-29T00:51:58.369Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marke...
+2. Procedure options: Liposuction, Renuvion, male nipple and breast reduction Procedure Overview Addresses Excess tissue in male breasts Breast lumps Uneven breasts Procedure Time 2-3 hours Eligibility M...
+3. View All Before & Afters [IMAGE: no alt text] What to Expect Before, During, and After Your Male Breast Reduction in Houston 1
+4. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+5. "*" indicates required fields X/Twitter This field is for validation purposes and should be left unchanged
+6. Enter Email* Δ Frequently Asked Questions About Male Breast Reduction in Houston What causes “man boobs”? When it comes to gynecomastia Houston men can develop it in any phase of life—in fact, most me...
+7. Depending on the type of tissue you have, our surgeons will design a custom treatment plan to achieve your desired results.
+
+MISSING ALT TAGS (5):
+----------------------------------------
+1. Houston plastic surgeons in operating room
+2. Houston plastic surgeons at Heights
+3. Houston male plastic surgery model with no shirt
+4. Muscular torso of young man
+5. virtual consultation tool on a laptop
+

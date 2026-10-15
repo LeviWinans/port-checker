@@ -112,14 +112,32 @@ function extractVideos(content) {
 /**
  * Find missing text chunks in new content that exist in old content
  * Uses word-based matching to handle different formatting/order
+ * Also flags chunks that have significant words missing entirely
  */
 function findMissingTextChunks(oldChunks, newChunks) {
   // Create a combined text from all new chunks for word searching
   const newContentText = newChunks.map(c => c.normalized).join(' ');
+  const newWordSet = new Set(extractWords(newContentText));
   
   return oldChunks.filter(oldChunk => {
-    // Check if words from old chunk exist in new content
-    return !wordsExistInText(oldChunk.normalized, newContentText);
+    // First check: if words from old chunk exist in new content (80% threshold)
+    if (!wordsExistInText(oldChunk.normalized, newContentText)) {
+      return true; // Chunk is definitely missing
+    }
+    
+    // Second check: even if chunk passes word percentage, flag if any significant words are completely missing
+    // This catches cases where key words like "route" disappear even though the chunk overall is 90%+ similar
+    const oldWords = extractWords(oldChunk.normalized);
+    const significantOldWords = oldWords.filter(w => w.length > 2);
+    
+    // Find any significant words from old that don't exist in new at all
+    const completelyMissingWords = significantOldWords.filter(word => !newWordSet.has(word));
+    
+    // If any significant words are completely missing, flag the chunk
+    // But exclude very common words (is, are, the, etc.) - only flag if missing words are > 2 chars
+    const importantMissingWords = completelyMissingWords.filter(w => w.length > 3);
+    
+    return importantMissingWords.length > 0;
   });
 }
 

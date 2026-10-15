@@ -1,0 +1,27 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/appointmentpolicy/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/resources/appointment-policy/
+Generated: 2026-09-30T04:14:59.330Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (6 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/appointmentpolicy/ Scraped: 2026-09-30T04:14:55.020Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Back to ...
+2. Cara Downey Valued Patient – By scheduling an appointment with us, patients agree to our cancellation, no-show, reschedule, and tardy policies
+3. If you have any questions or concerns, you can reach us at 713-496-2427
+4. Share Copied Related News Mommy Makeover Mommy Makeover Mommy Makeover 03.07.2025 Facial Treatments The Truth About Collagen & Anti-Aging: Insights from Dr
+5. Cara Downey The Truth About Collagen & Anti-Aging: Insights from Dr
+6. Cara Downey 12.12.2025
+
+MISSING ALT TAGS (3):
+----------------------------------------
+1. heights plastic surgery logo with appointment book
+2. Mommy Makeover model with beige colored undergarments
+3. Dr. Downey meeting with a plastic surgery patient in Houston
+

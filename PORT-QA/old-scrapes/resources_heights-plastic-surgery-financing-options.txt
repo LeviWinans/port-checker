@@ -1,0 +1,16 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/heights-plastic-surgery-financing-options/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/resources/heights-plastic-surgery-financing-options/
+Generated: 2026-09-30T04:14:59.340Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (1 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/heights-plastic-surgery-financing-options/ Scraped: 2026-09-30T04:14:58.757Z ------------------------------------------ MAIN CONTENT (Alt tags and vide...
+

@@ -1,0 +1,28 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/board-certified-plastic-surgeon-in-houston/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/about/board-certified-plastic-surgeon-in-houston/
+Generated: 2026-09-30T22:57:58.396Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (9 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/board-certified-plastic-surgeon-in-houston/ Scraped: 2026-09-30T22:57:57.656Z ------------------------------------------ MAIN CONTENT (Alt tags and vid...
+2. Bullocks 2813 W T C Jester Blvd, Houston, TX 77018 346.321.4429 Virtual Consultation Ask a Question Elevating Your Care When looking for a plastic surgeon, it’s incredibly important to find someone wi...
+3. Debakey Department of Surgery Houston, TX Surgical Internship 2001-2002 Georgetown University School of Medicine Washington, DC Doctor of Medicine, 2001 Cum Laude Alpha Omega Alpha Honor Medical Socie...
+4. Jamal Bullocks Get In Touch Heights Plastic Surgery’s office in Houston offers the latest medical equipment, highlighted by modern finishes that allow for comfortable and secure consultations
+5. Our highly-skilled staff is here to oversee the utmost care of our clients
+6. Address 2813 W T C Jester Blvd Houston, TX 77018 Phone 346.321.4429 "*" indicates required fields X/Twitter This field is for validation purposes and should be left unchanged
+7. First Name* FIRST NAME Last Name* LAST NAME Phone* Procedure Of Interest*Choose One...Arm LiftBlepharoplastyBody LiftBreast AugmentationBreast LiftBrow LiftFaceliftRhinoplastyInjectable TreatmentsLase...
+8. SwonkeDon't have a preference Best Time To Contact You*Choose One...MorningAfternoonEvening How Can We Help With Your Aesthetic Need? By submitting this you agree to be contacted via text, call or ema...
+9. Standard rates may apply
+
+MISSING ALT TAGS (1):
+----------------------------------------
+1. Houston plastic surgeon
+

@@ -1,0 +1,27 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/non-surgical/fotofacial-rf/
+New Page: https://uabend.influx-dev.com/laser-treatments/fotofacial-rf/
+Generated: 2026-10-13T22:06:55.184Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (4 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/non-surgical/fotofacial-rf/ Scraped: 2026-10-13T22:06:54.510Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Skin Rejuvenation ...
+2. VILLANO For FotoFacial skin rejuvenation in Bend, Oregon, contact the office of Dual Board Certified Facial Plastic Surgeon Dr
+3. Villano at VillanoMD
+4. SEND US A MESSAGE CALL US 541-312-3223
+
+MISSING ALT TAGS (5):
+----------------------------------------
+1. photorejuvenation5
+2. photorejuvenation4
+3. photorejuvenation3
+4. photorejuvenation2
+5. photorejuvenation1
+

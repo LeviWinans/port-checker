@@ -1,0 +1,25 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/meet-dr-swonke/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/about/meet-dr-swonke/
+Generated: 2026-09-30T04:14:59.311Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (10 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/meet-dr-swonke/ Scraped: 2026-09-30T04:14:43.034Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): [IMAGE: no ...
+2. Swonke 2813 W T C Jester Blvd, Houston, TX 77018 346.321.4429 Virtual Consultation Ask a Question Dr
+3. Her areas of focus include: Facelift & Neck Lift Surgery – including deep plane facelift techniques designed to restore natural facial contours with long-lasting, refined results Rhinoplasty- advanced...
+4. Schedule a Visit Dr
+5. Swonke is currently accepting new patients
+6. If you are looking for a surgeon who is technically precise but easy to talk to, we’d love to introduce you
+7. Address 2813 W T C Jester Blvd Houston, TX 77018 Phone 346.321.4429 "*" indicates required fields X/Twitter This field is for validation purposes and should be left unchanged
+8. First Name* FIRST NAME Last Name* LAST NAME Phone* Procedure Of Interest*Choose One...Arm LiftBlepharoplastyBody LiftBreast AugmentationBreast LiftBrow LiftFaceliftRhinoplastyInjectable TreatmentsLase...
+9. SwonkeDon't have a preference Best Time To Contact You*Choose One...MorningAfternoonEvening How Can We Help With Your Aesthetic Need? By submitting this you agree to be contacted via text, call or ema...
+10. Standard rates may apply
+

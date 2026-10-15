@@ -1,0 +1,30 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/breast-reduction/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/breast-reduction/
+Generated: 2026-09-29T00:52:00.346Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (7 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/breast-reduction/ Scraped: 2026-09-29T00:51:55.301Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): ...
+2. See Results Sensitive Content The following contains sensitive content
+3. Please continue at your own discretion
+4. Plastic surgery procedure that reduces the size and weight of the breast for better balancing of a woman's frame Procedure options: Breast Reduction - Inverted-T Anchor, Vertical/Lollipop, Breast Lipo...
+5. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+6. "*" indicates required fields Phone This field is for validation purposes and should be left unchanged
+7. Enter Email* Δ Frequently Asked Questions About Breast Reductions in Houston What is a breast reduction? Women who suffer from overly large breasts often experience emotional and physical distress tha...
+
+MISSING ALT TAGS (5):
+----------------------------------------
+1. Houston preserve breast augmentation model
+2. breast reduction model in houston
+3. houston breast implant doctor showing implants to patient
+4. Houston breast reduction model
+5. Plastic surgery patient model at Heights plastic surgery in Houston
+

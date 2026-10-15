@@ -1,0 +1,17 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/event/double-the-wellness/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/specials/double-the-wellness/
+Generated: 2026-09-30T04:18:29.797Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (2 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/event/double-the-wellness/ Scraped: 2026-09-30T04:18:20.728Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): ...
+2. Add to Google Calendar iCal / Outlook Export Share Copied
+

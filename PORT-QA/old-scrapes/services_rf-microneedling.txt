@@ -1,0 +1,25 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/rf-microneedling/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/rf-microneedling/
+Generated: 2026-09-29T21:14:12.756Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (6 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/rf-microneedling/ Scraped: 2026-09-29T21:14:11.993Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): ...
+2. Procedure options: SkinPen, Vivace - RF Microneedling [IMAGE: no alt text] Procedure Overview Addresses Fine lines and wrinkles Mild sagging facial skin Enlarged pores Acne scarring Uneven skin textur...
+3. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+4. "*" indicates required fields Email This field is for validation purposes and should be left unchanged
+5. Enter Email* Δ Frequently Asked Questions About Microneedling in Houston What is microneedling? Microneedling is a minimally invasive cosmetic treatment used to rejuvenate the skin by boosting the bod...
+6. Ideal candidates for microneedling often desire to treat the following concerns: Fine lines and wrinkles Mild sagging facial skin Enlarged pores Acne scarring Uneven skin texture Age spots and sunspot...
+
+MISSING ALT TAGS (1):
+----------------------------------------
+1. Plastic surgery patient model at Heights plastic surgery in Houston
+

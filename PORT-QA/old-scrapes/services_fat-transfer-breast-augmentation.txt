@@ -1,0 +1,30 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/fat-transfer-breast-augmentation/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/fat-transfer-breast-augmentation/
+Generated: 2026-09-29T00:52:00.236Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (9 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/fat-transfer-breast-augmentation/ Scraped: 2026-09-29T00:51:53.530Z ------------------------------------------ MAIN CONTENT (Alt tags and vide...
+2. View All Before & Afters What is Breast Fat Transfer? Breast Fat Transfer is a surgical procedure that harvests fat from areas of excess, typically the abdomen, flanks, or thighs, and reinjects it int...
+3. Weight Stability: You should be at a stable goal weight
+4. Nutrition: Hydration and high-protein intake in the weeks leading up to surgery create a healthy environment for the new grafts
+5. Garment Planning: You will need specific compression garments for the donor site (liposuction area) and a loose, non-compressive surgical bra for the chest
+6. Support System: Arrange for a ride home and someone to help with basic tasks for the first 24–48 hours
+7. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+8. "*" indicates required fields Facebook This field is for validation purposes and should be left unchanged
+9. Enter Email* Δ Frequently Asked Questions About Fat Transfer Breast Augmentation in Houston Does breast fat transfer last? Yes! The use of body fat to augment the size of your breasts is extremely lon...
+
+MISSING ALT TAGS (3):
+----------------------------------------
+1. breast reduction model in houston
+2. Houston preserve breast augmentation model
+3. measuring a breast reduction patient in houston
+

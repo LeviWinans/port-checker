@@ -1,0 +1,27 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/chemical-peel/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/chemical-peel/
+Generated: 2026-09-29T18:53:51.295Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (8 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/chemical-peel/ Scraped: 2026-09-29T18:53:42.679Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): [IM...
+2. Procedure options: Chemical Peel, WiQo Peel, ZO Peel, ZO Stimulator Peel, VI Peel, PRX Peel [IMAGE: no alt text] Procedure Overview Addresses Dry, rough, or dull skin Uneven complexion Acne Acne scarr...
+3. The intensity of our chemical peels in Houston are completely customized to your desired level, but each one leaves you with healthy, radiant skin! View All Before & Afters What is a Chemical Peel? A ...
+4. Get Started Studio Essex Driven By Our Mission: Enhancing Your Natural Features with a Chemical Peel
+5. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+6. "*" indicates required fields Phone This field is for validation purposes and should be left unchanged
+7. Enter Email* Δ Frequently Asked Questions About Chemical Peels in Houston What is a chemical peel? Chemical peels are a safe and effective way to refresh and rejuvenate the skin on your face
+8. Dull, dead skin Sun damage and age spots Fine lines and mild wrinkling Acne scarring General signs of aging Patients who are interested in correcting sags, bulges, and severe wrinkles should consider ...
+
+MISSING ALT TAGS (1):
+----------------------------------------
+1. Houston chemical peel consultation
+

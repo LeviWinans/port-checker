@@ -1,0 +1,30 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/plastic-surgery-office-in-houston/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/about/plastic-surgery-office-in-houston/
+Generated: 2026-09-30T04:14:59.325Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (2 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/plastic-surgery-office-in-houston/ Scraped: 2026-09-30T04:14:52.747Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are m...
+2. Swonke [IMAGE: no alt text] AAAASF Accreditation [IMAGE: no alt text] Schedule a Consultation Ready for your first visit to one of the most trusted plastic surgery offices in Houston? Get Started 2813...
+
+MISSING ALT TAGS (10):
+----------------------------------------
+1. Houston chemical peel consultation
+2. new-28
+3. new-6
+4. Heights Plastic Surgery-5159
+5. Heights Plastic Surgery-2
+6. Heights Plastic Surgery-2187
+7. Heights Plastic Surgery-3139
+8. Heights Plastic Surgery-3324
+9. Heights Plastic Surgery-3244
+10. Heights Plastic Surgery-3224
+

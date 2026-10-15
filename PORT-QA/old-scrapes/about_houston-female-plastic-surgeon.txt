@@ -1,0 +1,29 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/houston-female-plastic-surgeon/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/about/houston-female-plastic-surgeon/
+Generated: 2026-09-30T04:14:59.188Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (9 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/houston-female-plastic-surgeon/ Scraped: 2026-09-30T04:14:35.105Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are mark...
+2. Downey 2813 W T C Jester Blvd, Houston, TX 77018 346.321.4429 Virtual Consultation Ask a Question Focused on You When searching for a plastic surgeon who will care for your unique needs, be sure to fi...
+3. Instructional Courses 2007 Advanced Surgical Suturing Course Course Director Michael E
+4. Downey Get In Touch Heights Plastic Surgery’s office in Houston offers the latest medical equipment, highlighted by a luxurious decor that allow for comfortable and bespoke consultations
+5. Our highly-skilled staff is here to oversee the utmost care of our clients
+6. Address 2813 W T C Jester Blvd Houston, TX 77018 Phone 346.321.4429 "*" indicates required fields Email This field is for validation purposes and should be left unchanged
+7. First Name* FIRST NAME Last Name* LAST NAME Phone* Procedure Of Interest*Choose One...Arm LiftBlepharoplastyBody LiftBreast AugmentationBreast LiftBrow LiftFaceliftRhinoplastyInjectable TreatmentsLase...
+8. SwonkeDon't have a preference Best Time To Contact You*Choose One...MorningAfternoonEvening How Can We Help With Your Aesthetic Need? By submitting this you agree to be contacted via text, call or ema...
+9. Standard rates may apply
+
+MISSING ALT TAGS (2):
+----------------------------------------
+1. Houston plastic surgeon
+2. houston breast implant doctor showing implants to patient
+

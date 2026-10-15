@@ -1,0 +1,26 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/medical-grade-skincare/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/medical-grade-skincare/
+Generated: 2026-09-29T20:02:48.806Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (6 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/medical-grade-skincare/ Scraped: 2026-09-29T20:02:48.296Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are mar...
+2. Reserve your skin care consultation Buy it here! Crystal’s Favorite Product ZO Skin Exfoliating Polish This polish gently removes dead skin cells to instantly reveal smoother, softer + glowing skin
+3. Buy it here! Get exclusive product discounts & treatment specials sent to your inbox
+4. "*" indicates required fields Email This field is for validation purposes and should be left unchanged
+5. Enter Email* Δ Frequently Asked Questions About Medical Grade Skincare in Houston What’s the difference between over the counter, physician dispensed and prescription skincare? Over-the-counter (OTC) ...
+6. When you are ready to start a more targeted approach, we can add-on additional products to treat your other concerns.
+
+MISSING ALT TAGS (2):
+----------------------------------------
+1. crystal whitby
+2. Tori Lasater
+

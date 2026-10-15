@@ -1,0 +1,28 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/ipl-photofacial/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/ipl-photofacial/
+Generated: 2026-09-29T21:14:12.599Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (5 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/ipl-photofacial/ Scraped: 2026-09-29T21:13:57.736Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): [...
+2. See Results Intense Pulsed Light (IPL) also known as: Photofacial A medical aesthetic treatment that uses pulsating light energy to selectively heat the layers of the skin containing specific discolor...
+3. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+4. "*" indicates required fields URL This field is for validation purposes and should be left unchanged
+5. Enter Email* Δ Frequently Asked Questions About IPL Photofacial in Houston What is an IPL photofacial? The IPL Photofacial is a unique facial rejuvenating treatment that utilizes the power of light en...
+
+MISSING ALT TAGS (5):
+----------------------------------------
+1. Houston med spa model receiving light treatment
+2. houston plastic surgery model with palm leaves shadowing her face
+3. houston plastic surgery model resting her chin on her hand
+4. Heights Plastic Surgery in Houston, TX
+5. Plastic surgery patient model at Heights plastic surgery in Houston
+

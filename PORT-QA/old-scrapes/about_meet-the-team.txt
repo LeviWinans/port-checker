@@ -1,0 +1,23 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/plastic-surgery-center-in-houston/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/about/meet-the-team/
+Generated: 2026-09-30T04:14:59.323Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (1 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/plastic-surgery-center-in-houston/ Scraped: 2026-09-30T04:14:49.897Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are m...
+
+MISSING ALT TAGS (4):
+----------------------------------------
+1. Tori Lasater
+2. Tori Lasater
+3. kathy garcia
+4. kathy garcia
+

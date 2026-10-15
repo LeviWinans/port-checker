@@ -1,0 +1,51 @@
+HEADING COMPARISON REPORT
+Old → New (All Headings)
+===============================
+
+OLD PAGE:
+https://villanomd.com/specials-and-events/
+
+All Headings in Order:
+  ✓ [H1] Specials and Events
+
+NEW PAGE:
+https://uabend.influx-dev.com/resources/specials-and-events/
+
+All Headings in Order:
+  [H1] Specials and Events
+  [H2] Schedule Your Consultation
+  [H2] Error with Form Submission
+  [H2] Thank you for your submission!
+
+----------------------------------------
+
+OLD PAGE:
+https://villanomd.com/stories/
+
+All Headings in Order:
+  ✓ [H1] My 
+STORY
+  ✗ [H2] Contact Us
+
+NEW PAGE:
+https://uabend.influx-dev.com/resources/stories/
+
+All Headings in Order:
+  [H1] My 
+STORY
+  [H3] Take Control
+  [H2] Nose Surgery Before & Afters
+  [H2] Brow Lift Before & Afters
+  [H2] Blepharoplasty Before & Afters
+  [H2] Facelift Before & Afters
+  [H2] Ear Reshaping Before & Afters
+  [H2] Mid Facelift Surgery Before & Afters
+  [H2] Neck Lift Before & Afters
+  [H2] Neck Liposuction Before & Afters
+  [H2] Tca Deep Phenol Peels Before & Afters
+  [H2] Schedule Your Consultation
+  [H2] Error with Form Submission
+  [H2] Thank you for your submission!
+
+----------------------------------------
+

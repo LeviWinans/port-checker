@@ -1,0 +1,18 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/heights-plastic-surgery-faqs/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/resources/heights-plastic-surgery-faqs/
+Generated: 2026-09-30T04:14:59.336Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (3 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/heights-plastic-surgery-faqs/ Scraped: 2026-09-30T04:14:55.470Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked...
+2. If you need additional assistance finding our office, please don’t hesitate to give us a call! 346-321-4429
+3. Do you offer financing? Yes! Heights Plastic Surgery partners with Cherry (https://heightsplasticsurgeryhouston.com/heights-plastic-surgery-financing-options/), a trusted partner of the aesthetics ind...
+

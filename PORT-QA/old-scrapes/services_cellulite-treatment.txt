@@ -1,0 +1,26 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/cellulite-treatment/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/cellulite-treatment/
+Generated: 2026-09-29T21:14:12.538Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (6 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/cellulite-treatment/ Scraped: 2026-09-29T21:13:49.260Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked...
+2. Procedure options: Emtone -Non surgical cellulite reduction and skin tightening, radio frequency and target pressure energy [IMAGE: no alt text] Procedure Overview Addresses Cellulite on the thighs an...
+3. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+4. "*" indicates required fields LinkedIn This field is for validation purposes and should be left unchanged
+5. Enter Email* Δ Frequently Asked Questions About EmTone in Houston How does EmTone work? Cellulite is a multi-factorial problem
+6. With no downtime, you may resume normal activity immediately after the treatment.
+
+MISSING ALT TAGS (2):
+----------------------------------------
+1. emtone hand piece
+2. emtone hand piece
+

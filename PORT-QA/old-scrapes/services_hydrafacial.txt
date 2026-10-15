@@ -1,0 +1,22 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/hydrafacial/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/hydrafacial/
+Generated: 2026-09-29T20:02:48.797Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (7 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/hydrafacial/ Scraped: 2026-09-29T20:02:41.687Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): [IMAG...
+2. [IMAGE: no alt text] Procedure Overview Addresses Acne or clogged pores Uneven skin texture Dulled or dry skin Oily skin Blackheads Dehydrated skin Procedure Time 30 - 1 hour Eligibility Female & Male...
+3. Call 346.552.8050 or request an appointment online
+4. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+5. "*" indicates required fields URL This field is for validation purposes and should be left unchanged
+6. Enter Email* Δ Frequently Asked Questions About HydraFacial in Houston How often should I schedule HydraFacial treatments? Most patients do well every 4–6 weeks to maintain clear pores, smoother textu...
+7. Who performs HydraFacial at Studio Essex? Licensed aesthetic providers with specific training in HydraFacial protocols, overseen by our board-certified plastic surgeons to ensure consistent, safe, and...
+

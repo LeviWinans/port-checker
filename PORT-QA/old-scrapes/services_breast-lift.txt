@@ -1,0 +1,29 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/breast-lift/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/breast-lift/
+Generated: 2026-09-29T00:52:00.279Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (8 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/breast-lift/ Scraped: 2026-09-29T00:51:54.359Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): [IMAG...
+2. See Results Sensitive Content The following contains sensitive content
+3. Please continue at your own discretion
+4. Continue [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] [IMAGE: no alt text] Mastopexy also known as: breast lift \ MA-stow-pek-see \ Plastic ...
+5. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+6. "*" indicates required fields Phone This field is for validation purposes and should be left unchanged
+7. Enter Email* Δ Frequently Asked Questions About Breast Lifts in Houston What is the difference between a breast lift and breast augmentation? A breast lift reshapes and lifts sagging breasts without s...
+8. Your surgeon will provide personalized advice based on your recovery progress.
+
+MISSING ALT TAGS (3):
+----------------------------------------
+1. measuring a breast reduction patient in houston
+2. houston breast implant doctor showing implants to patient
+3. breast reduction model in houston
+

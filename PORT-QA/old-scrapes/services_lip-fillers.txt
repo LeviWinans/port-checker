@@ -1,0 +1,27 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/lip-fillers/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/lip-fillers/
+Generated: 2026-09-29T17:33:56.678Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (6 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/lip-fillers/ Scraped: 2026-09-29T17:33:52.536Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): [IMAG...
+2. Procedure options: Restylane Kiss, Restylane, Juvederm, RHA Procedure Overview Addresses Thin lips or reduced volume due to aging Fine lines around the lips Asymmetrical or uneven lip size Procedure T...
+3. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+4. "*" indicates required fields URL This field is for validation purposes and should be left unchanged
+5. Enter Email* Δ Frequently Asked Questions about Lip Fillers in Houston How long do lip fillers last? Lip fillers typically last between 6 to 12 months, depending on the type of filler used and individ...
+6. A personalized cost estimate will be provided during your consultation.
+
+MISSING ALT TAGS (3):
+----------------------------------------
+1. Plastic surgery patient model at Heights plastic surgery in Houston
+2. virtual consultation tool on a laptop
+3. Plastic surgery patient model at Heights plastic surgery in Houston
+

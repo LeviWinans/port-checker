@@ -1,0 +1,23 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/facial-renuvion/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/facial-renuvion/
+Generated: 2026-09-29T21:14:12.547Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (8 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/facial-renuvion/ Scraped: 2026-09-29T21:13:51.912Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): [...
+2. Bullocks, are ready to help you achieve your desired rejuvenated look
+3. Procedure options: Renuvion Facial, High Definition Body Sculpting [IMAGE: no alt text] Procedure Overview Addresses Fine lines and wrinkles Skin Laxity Skin texture Procedure Time 30-60 minutes Eligi...
+4. Frequently Asked Questions Jump to FAQs Related Treatments [IMAGE: no alt text] Liposuction [IMAGE: no alt text] Mommy Makeover [IMAGE: no alt text] Arm Lift [IMAGE: no alt text] What to Expect Before...
+5. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+6. "*" indicates required fields Comments This field is for validation purposes and should be left unchanged
+7. Enter Email* Δ Frequently Asked Questions About Facial Renuvion in Houston Is Facial Renuvion painful? What does it feel like? Facial Renuvion is a minimally invasive procedure, and most patients repo...
+8. During your consultation, our team will provide you with a personalized quote based on your specific needs.
+

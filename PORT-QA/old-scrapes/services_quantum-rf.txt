@@ -1,0 +1,26 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/quantum-rf/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/quantum-rf/
+Generated: 2026-09-29T21:14:12.684Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (7 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/quantum-rf/ Scraped: 2026-09-29T21:14:04.819Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): [IMAGE...
+2. [IMAGE: no alt text] Procedure Overview Addresses Sagging skin and moderate skin laxity Wrinkles and fine lines Stubborn fat deposits in the body and face Skin laxity in the lower face, neck, arms, th...
+3. Eligibility Adults with moderate skin laxity Patients with stubborn fat resistant to diet and exercise Individuals seeking a minimally invasive alternative to surgery People who want noticeable improv...
+4. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+5. "*" indicates required fields Phone This field is for validation purposes and should be left unchanged
+6. Enter Email* Δ Frequently Asked Questions About Quantum RF in Houston Is Quantum RF painful? Most patients find the procedure very tolerable, especially since local anesthesia is used
+7. Is there any downtime after Quantum RF? Most patients return to daily activities within a few days, making it an excellent option for busy lifestyles.
+
+MISSING ALT TAGS (1):
+----------------------------------------
+1. houston brachioplasty model getting her arm measured
+

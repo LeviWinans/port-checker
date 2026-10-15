@@ -1,0 +1,19 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/dr-villano/
+New Page: https://uabend.influx-dev.com/about/michael-villano-md/
+Generated: 2026-10-13T22:25:17.783Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (4 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/dr-villano/ Scraped: 2026-10-13T22:25:17.300Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Michael E
+2. There is no guarantee of specific results and results can vary
+3. VILLANO For plastic surgery in Bend, Oregon, contact the office of Dual Board Certified Facial Plastic Surgeon Dr
+4. SEND US A MESSAGE CALL US 541-312-3223
+

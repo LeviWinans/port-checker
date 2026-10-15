@@ -1,0 +1,25 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/non-surgical/rha_redensity/
+New Page: https://uabend.influx-dev.com/injectables-fillers/rha-redensity/
+Generated: 2026-10-13T21:28:58.069Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (4 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/non-surgical/rha_redensity/ Scraped: 2026-10-13T21:28:57.450Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Dynamic Appeal RHA...
+2. VILLANO Need more info? Call 541.312.3223 and connect with Certified Nurse Injector Courtney Andrade to learn more about Injectable & Dermal Filler treatments in Bend, Oregon
+3. Trust your face to the specialist, only at VillanoMD
+4. SEND US A MESSAGE CALL US 541-312-3223
+
+MISSING ALT TAGS (3):
+----------------------------------------
+1. A RHA Redensity patient using a straw to demonstrate the filler.
+2. A patient with RHA 2 and RHA 3 to show refined smoothness of the filler.
+3. A patient with RHA 4 to show natural volume of the facial filler.
+

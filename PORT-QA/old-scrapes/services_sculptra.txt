@@ -1,0 +1,29 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/sculptra/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/sculptra/
+Generated: 2026-09-29T17:33:56.699Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (7 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/sculptra/ Scraped: 2026-09-29T17:33:56.006Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): [IMAGE: ...
+2. [IMAGE: no alt text] Procedure Overview Addresses Fine lines and wrinkles Skin laxity Volume loss Procedure Time 45 minutes - 1 hour Eligibility 18+ Not pregnant/breastfeeding Possible Side Effects Te...
+3. Related Treatments Kybella [IMAGE: no alt text] Dermal Fillers [IMAGE: no alt text] Neurotoxin [IMAGE: no alt text] What to Expect Before, During, and After Sculptra in Houston 1
+4. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+5. "*" indicates required fields Email This field is for validation purposes and should be left unchanged
+6. Enter Email* Δ Frequently Asked Questions About Sculptra in Houston What is Sculptra? Sculptra is a poly-L-lactic acid dermal filler
+7. Heights Plastic Surgery and Studio Essex Medical Spa offer an array of surgical and non-surgical cosmetic procedures to help residents of Houston, Sugar Land, The Woodlands, and neighboring communitie...
+
+MISSING ALT TAGS (4):
+----------------------------------------
+1. Dr. Downey meeting with a plastic surgery patient in Houston
+2. Heights Plastic Surgery Houston
+3. virtual consultation tool on a laptop
+4. Plastic surgery patient model at Heights plastic surgery in Houston
+

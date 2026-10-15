@@ -1,0 +1,17 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/event/september-skincare-special-2026/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/specials/september-skincare-special-2026/
+Generated: 2026-09-30T04:18:29.802Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (2 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/event/september-skincare-special-2026/ Scraped: 2026-09-30T04:18:29.210Z ------------------------------------------ MAIN CONTENT (Alt tags and videos a...
+2. Add to Google Calendar iCal / Outlook Export Share Copied
+

@@ -1,0 +1,33 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/botox/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/botox/
+Generated: 2026-09-29T17:33:56.514Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (12 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/botox/ Scraped: 2026-09-29T17:33:28.147Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): [IMAGE: no ...
+2. See Results [IMAGE: no alt text] [IMAGE: no alt text] OnabotulinumtoxinA also known as: BOTOX® Cosmetic, neurotoxin, chemodenervation \ on-uh-BAH-choo-ly-num-TOK-sin-A \ A prescription medication inje...
+3. It’s great for smoothing out a bunch of those little signs of aging that sneak up over time: Forehead Lines: These appear when we raise our eyebrows, and Botox helps relax the muscles so the lines don...
+4. Frown Lines (Between the Brows): If you’ve ever been told you “look mad” when you’re not, these lines might be the reason
+5. Bunny Lines: These are the little scrunch lines on the nose
+6. Lip Lines: Also called smoker’s lines—tiny vertical lines around the mouth that can get more noticeable with age
+7. Chin Texture: If your chin looks bumpy or dimply when you talk or smile, Botox can help even it out
+8. Neck Bands: Those vertical lines that stand out when you tense your neck? Botox can soften them, too
+9. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+10. "*" indicates required fields Phone This field is for validation purposes and should be left unchanged
+11. Enter Email* Δ Frequently Asked Questions About Botox in Houston Is Botox safe for all skin types? Yes, when done by a trained professional, it’s safe for all skin tones and types
+12. It has even been reported to improve skin quality.
+
+MISSING ALT TAGS (3):
+----------------------------------------
+1. Heights Plastic Surgery Houston
+2. Dr. Downey meeting with a plastic surgery patient in Houston
+3. virtual consultation tool on a laptop
+

@@ -1,0 +1,28 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/sclerotherapy/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/sclerotherapy/
+Generated: 2026-09-29T17:33:56.569Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (6 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/sclerotherapy/ Scraped: 2026-09-29T17:33:32.679Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Scl...
+2. [IMAGE: no alt text] Procedure Overview Addresses The appearance of varicose veins on the legs Associated symptoms such as aching, swelling, and burning Procedure Time 15 minutes - 1 hour Eligibility ...
+3. View All Before & Afters What Is Sclerotherapy? Sclerotherapy is a minimally invasive vein treatment that uses a precisely placed injectable solution to close spider veins and selected small varicose ...
+4. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+5. "*" indicates required fields Instagram This field is for validation purposes and should be left unchanged
+6. Enter Email* Δ Frequently Asked Questions About Sclerotherapy in Houston What is sclerotherapy? Sclerotherapy is a minimally invasive treatment that reduces the physical discomfort and appearance of v...
+
+MISSING ALT TAGS (4):
+----------------------------------------
+1. Heights Plastic Surgery Houston treatment room
+2. Houston plastic surgeons at Heights
+3. virtual consultation tool on a laptop
+4. Plastic surgery patient model at Heights plastic surgery in Houston
+

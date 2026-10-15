@@ -1,0 +1,19 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/surgical/fat-grafting/
+New Page: https://uabend.influx-dev.com/face/fat-grafting/
+Generated: 2026-10-13T21:10:51.516Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (4 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/surgical/fat-grafting/ Scraped: 2026-10-13T21:10:51.298Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Fat Grafting Reconstruc...
+2. VILLANO For fat grafting in Bend, Oregon, contact the office of Dual Board Certified Facial Plastic Surgeon Dr
+3. Villano at VillanoMD
+4. SEND US A MESSAGE CALL US 541-312-3223
+

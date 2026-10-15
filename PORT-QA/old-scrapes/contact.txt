@@ -1,0 +1,19 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgerxyhouston.com/contact/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/contact/
+Generated: 2026-09-30T23:43:53.587Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (4 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/contact/ Scraped: 2026-09-30T23:43:49.240Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Contact Heights Pl...
+2. Address 2813 W T C Jester Blvd Houston, TX 77018 Phone 346.321.4429 "*" indicates required fields Company This field is for validation purposes and should be left unchanged
+3. First Name* FIRST NAME Last Name* LAST NAME Phone* Procedure Of Interest*Choose One...Arm LiftBlepharoplastyBody LiftBreast AugmentationBreast LiftBrow LiftFaceliftRhinoplastyInjectable TreatmentsLase...
+4. SwonkeDon't have a preference Best Time To Contact You*Choose One...MorningAfternoonEvening How Can We Help With Your Aesthetic Need? By submitting this you agree to be contacted via text, call or ema...
+

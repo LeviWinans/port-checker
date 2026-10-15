@@ -1,0 +1,29 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/laser-skin-resurfacing/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/laser-skin-resurfacing/
+Generated: 2026-09-29T21:14:12.666Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (7 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/laser-skin-resurfacing/ Scraped: 2026-09-29T21:14:01.238Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are mar...
+2. Procedure options: Fraxel, Laser resurfacing [IMAGE: no alt text] Procedure Overview Addresses Fine lines and wrinkles Surface scarring Pigmentation Sun damage Acne Procedure Time 50 - 70 minutes Elig...
+3. Superior Results
+4. View All Before & Afters What Is Laser Skin Resurfacing? Laser skin resurfacing is a nonsurgical treatment that uses controlled light energy to improve skin tone, texture, pigmentation, and visible si...
+5. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+6. "*" indicates required fields Name This field is for validation purposes and should be left unchanged
+7. Enter Email* Δ Frequently Asked Questions About Laser Resurfacing in Houston What is laser skin resurfacing? Laser skin resurfacing is a minimally invasive, non-surgical cosmetic treatment that evens ...
+
+MISSING ALT TAGS (4):
+----------------------------------------
+1. Dr. Downey meeting with a plastic surgery patient in Houston
+2. Houston med spa model receiving light treatment
+3. Heights Plastic Surgery in Houston, TX
+4. Plastic surgery patient model at Heights plastic surgery in Houston
+

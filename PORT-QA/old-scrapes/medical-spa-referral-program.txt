@@ -1,0 +1,21 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/medical-spa-referral-program/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/medical-spa-referral-program/
+Generated: 2026-09-30T04:18:29.791Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (6 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/medical-spa-referral-program/ Scraped: 2026-09-30T04:18:00.448Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked...
+2. To refer a friend or learn more about the program, call us at 346.552.8050 or visit us at Studio Essex Medical Spa in Houston, TX
+3. Referral "*" indicates required fields Facebook This field is for validation purposes and should be left unchanged
+4. First Name* First Last Name* Last Phone* Email* Procedure of Interest* Porcedure of Interest Referred By (Full Name)* Referred By Preferred Communication MethodPlease select…PhoneEmailText Message By ...
+5. Submit Δ What's Next? Have a person in mind who’s interested in cosmetic surgery? Copy this link (https://heightsplasticsurgeryhouston.com/referral/) and either text or email it to them
+6. Tell them to complete all fields and one of our cosmetic coordinators will be in touch with them soon! They can also call 346-552-8050 to speak with one of our coordinators directly.
+

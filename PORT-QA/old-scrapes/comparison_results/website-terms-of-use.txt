@@ -1,0 +1,17 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://havingbabies.com/website-terms-of-use/
+New Page: https://havingbabies.influx-dev.com/website-terms-of-use/
+Generated: 2026-07-28T22:10:06.078Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (2 chunks):
+----------------------------------------
+1. Source: https://havingbabies.com/website-terms-of-use/ Scraped: 2026-07-28T22:10:05.498Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): Home / Website Terms ...
+2. New Patients Appointments: Call: 1.866.472.4483 Click: Online Request Form General Inquiries Patient Portal / Bill Pay Media Inquiries: publicrelations@havingbabies.com Quick Links HRC – News & Storie...
+

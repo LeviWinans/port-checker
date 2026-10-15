@@ -1,0 +1,26 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://heightsplasticsurgeryhouston.com/services/facials/
+New Page: https://heightsplasticsurgeryhouston.influx-dev.com/services/facials/
+Generated: 2026-09-29T18:53:51.301Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (7 chunks):
+----------------------------------------
+1. Source: https://heightsplasticsurgeryhouston.com/services/facials/ Scraped: 2026-09-29T18:53:44.898Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): [IMAGE: n...
+2. Any one of our facials is the perfect treatment for virtually anyone, including teens! Signature & Acne Facials also known as: facial treatment Comprehensive skin treatments that use clinically proven...
+3. View All Before & Afters Related Treatments [IMAGE: no alt text] Chemical Peel [IMAGE: no alt text] Microneedling & Radiofrequency [IMAGE: no alt text] Fibroblast Skin Tightening [IMAGE: no alt text] ...
+4. Get Started Studio Essex Driven By Our Mission: Enhancing Your Natural Features
+5. Learn More Get exclusive product discounts & treatment specials sent to your inbox
+6. "*" indicates required fields Comments This field is for validation purposes and should be left unchanged
+7. Enter Email* Δ
+
+MISSING ALT TAGS (1):
+----------------------------------------
+1. Plastic surgery patient model at Heights plastic surgery in Houston
+
