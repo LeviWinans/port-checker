@@ -1,0 +1,17 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/surgical/
+New Page: https://uabend.influx-dev.com/surgical/
+Generated: 2026-10-15T16:11:15.156Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (2 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/surgical/ Scraped: 2026-10-15T16:11:13.304Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): SURGICAL “Dr
+2. SUBSCRIBENOW
+

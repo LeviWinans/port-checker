@@ -1,0 +1,63 @@
+CONTENT COPY VERIFICATION REPORT
+===================================
+
+Checking if old page content exists on new page:
+
+Old Page: https://villanomd.com/about/
+New Page: https://uabend.influx-dev.com/about/
+Generated: 2026-10-14T21:18:40.189Z
+
+⚠️  MISSING CONTENT FROM OLD PAGE:
+===================================
+
+MISSING TEXT CONTENT (5 chunks):
+----------------------------------------
+1. Source: https://villanomd.com/about/ Scraped: 2026-10-14T21:18:39.689Z ------------------------------------------ MAIN CONTENT (Alt tags and videos are marked): [IMAGE: no alt text] VillanoMD is where...
+2. Office Location Villano | MD 431 NE Revere Ave, Ste 200 Bend, Oregon 97701 Hospital Affiliations Dr
+3. Bend Surgery Center 1501 NE Medical Center Drive, Ste 200 541-318-0858 St
+4. Charles Medical Center 2500 NE Neff Road 541-382-4321 Insurance Coverage/Financing We accept most major insurance for payment of medically indicated procedures
+5. KEEP IN TOUCH FOLLOW US FACEBOOK INSTAGRAM CONTACT US Δ
+
+
+
+$image-targets:
+  ".blog-post-item .gatsby-image-wrapper-constrained", "swiper-slide .media-embed-container", ".swiper-slide .swiper-lazy",
+  "swiper-slide .gatsby-image-wrapper-constrained", ".media-embed-placeholder-container", ".swiper-slide .gatsby-image-wrapper-constrained",
+  ".card-feature-image";
+.aspect_ratio {
+  &__unset {
+    *:is(#{$image-targets}) {
+      @include aspect_ratio(unset, center);
+    }
+  }
+  &__widescreen {
+    *:is(#{$image-targets}) {
+      @include aspect_ratio(16/9, center);
+    }
+  }
+  &__fullscreen {
+    *:is(#{$image-targets}) {
+      @include aspect_ratio(4/3, center);
+    }
+  }
+  &__landscape {
+    *:is(#{$image-targets}) {
+      @include aspect_ratio(3/2, center);
+    }
+  }
+  &__square {
+    *:is(#{$image-targets}) {
+      @include aspect_ratio(1/1, center);
+    }
+  }
+  &__portrait {
+    *:is(#{$image-targets}) {
+      @include aspect_ratio(3/4, top center);
+    }
+  }
+  &__vertical {
+    *:is(#{$image-targets}) {
+      @include aspect_ratio(9/16, top center);
+    }
+  }
+}

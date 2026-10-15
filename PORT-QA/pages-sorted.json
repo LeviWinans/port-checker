@@ -1,12 +1,7 @@
 [
   {
-    "oldPage": "https://villanomd.com/specials-and-events/",
+    "oldPage": "https://villanomd.com/non-surgical/",
     "contentSource": "PORT",
-    "newPage": "https://uabend.influx-dev.com/resources/specials-and-events/"
-  },
-  {
-    "oldPage": "https://villanomd.com/stories/",
-    "contentSource": "PORT",
-    "newPage": "https://uabend.influx-dev.com/resources/stories/"
+    "newPage": "https://uabend.influx-dev.com/non-surgical/"
   }
 ]

@@ -1,2 +1,1 @@
-/specials-and-events/	PORT	/resources/specials-and-events/
-/stories/	PORT	/resources/stories/
+/non-surgical/	PORT	/non-surgical/
